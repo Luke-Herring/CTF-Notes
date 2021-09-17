@@ -7,8 +7,11 @@
         "id": "b2f73117aa9d26d1",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Bookmarks.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,12 +68,13 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Bookmarks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -79,20 +83,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "b2f73117aa9d26d1",
   "lastOpenFiles": [
-    "Web-Exploitation/Untitled.md",
-    "BackDoor/Linux.md",
-    "BackDoor/Tools/Crontab.md",
-    "Privelege-Escalation/Untitled.md",
+    "Bookmarks.md",
+    "Web-Exploitation/SQL-injection.md",
     "Privelege-Escalation/Linux.md",
     "Hash-cracking/Scripts/Hydra.md",
-    "Privelege-Escalation/LinEnum/LinEnum.md",
     "Hash-cracking/Hash-Cracking.md",
-    "Misc/Printer-Hacking.md",
-    "Hash-cracking/Scripts/Untitled.md"
+    "BackDoor/Linux.md",
+    "BackDoor/Tools/Crontab.md",
+    "Images/Web-Enumeration.png",
+    "Web-Exploitation/Untitled.md",
+    "Privelege-Escalation/Untitled.md"
   ]
 }

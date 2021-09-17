@@ -1,4 +1,3 @@
-
 				Pentesting Practice
 -- https://app.hackthebox.eu/
 -- https://tryhackme.com/
@@ -12,15 +11,18 @@
 -- https://eternia.to/
 
 				Cryptography
--- gchq.github.io/CyberChef/
+-- https://gchq.github.io/CyberChef/
 
                        		Shodan searches
--- securitytrails.com/blog/top-shodan-dorks
--- github.com/lothos612/shodan
+-- https://securitytrails.com/blog/top-shodan-dorks
+-- https://github.com/lothos612/shodan
 
-                      		 Misc
--- github.com/enaqx/awesome-pentest
--- github.com/Hack-with-Github/Awesome-Hacking
+				Osint
+-- https://osintframework.com/
+-- https://securitytrails.com/blog/google-hacking-techniques
+
+				Forensics
+-- gchq.github.io/CyberChef
 
 				Password Cracking
 -- https://crackstation.net/	
@@ -28,3 +30,11 @@
 
 				Privelege Escalation
 -- https://gtfobins.github.io/
+
+				Exploits
+-- https://www.exploit-db.com/
+
+                      		 Misc
+-- https://github.com/enaqx/awesome-pentest
+-- https://github.com/Hack-with-Github/Awesome-Hacking
+-- https://guide.offsecnewbie.com/

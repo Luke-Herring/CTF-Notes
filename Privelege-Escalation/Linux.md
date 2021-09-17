@@ -13,14 +13,13 @@
 -- cat /etc/crontab								
 
 				/etc/passwd
--- cat /etc/passwd								any hashes to crack?
+-- cat /etc/passwd
 
--- openssl passwd newpasswordhere				Changes root password
+-- openssl passwd newpasswordhere		Changes root password
 
 				Misc
--- cat ~/.*history | less						Past Commands
--- ls -la /										Hidden directory
+-- cat ~/.*history | less						
+-- ls -la /									
 
-
-
+				Links
 -- https://gtfobins.github.io/
