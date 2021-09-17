@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "3182ff572b759970",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2f73117aa9d26d1",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c8ce19bf2178c90e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0d0ec202d9ec022",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d8db55aba14ba07",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2182b11828cdcd5a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5c1e1c4fa48dbf95",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2423b00745a686d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1372d20dbf3fbe4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b2f73117aa9d26d1",
+  "lastOpenFiles": [
+    "Web-Exploitation/Untitled.md",
+    "BackDoor/Linux.md",
+    "BackDoor/Tools/Crontab.md",
+    "Privelege-Escalation/Untitled.md",
+    "Privelege-Escalation/Linux.md",
+    "Hash-cracking/Scripts/Hydra.md",
+    "Privelege-Escalation/LinEnum/LinEnum.md",
+    "Hash-cracking/Hash-Cracking.md",
+    "Misc/Printer-Hacking.md",
+    "Hash-cracking/Scripts/Untitled.md"
+  ]
+}
