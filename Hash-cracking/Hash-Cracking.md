@@ -1,6 +1,6 @@
 				John the Ripper
 -- john --wordlist=[filename] [passwordfile] --format=
--- john --show [filename]								Shows cracked password
+-- john --show [filename]
 
 				Hydra
 /Scripts
