@@ -3,7 +3,6 @@
 
 
 				Find SUID
--- find / -perm -4000 -user root -exec ls -ld {} \; 2> /dev/null sudo -l
 -- find / -user root -perm /4000
 
 				Sudo
