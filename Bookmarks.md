@@ -43,3 +43,4 @@
 -- https://github.com/enaqx/awesome-pentest
 -- https://github.com/Hack-with-Github/Awesome-Hacking
 -- https://guide.offsecnewbie.com/
+-- https://vx-underground.org/

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web-Exploitation/SQL-injection.md",
+            "file": "Bookmarks.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web-Exploitation/SQL-injection.md",
+                "file": "Bookmarks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,10 +96,10 @@
   },
   "active": "b2f73117aa9d26d1",
   "lastOpenFiles": [
+    "Bookmarks.md",
     "Web-Exploitation/SQL-injection.md",
     "Web-Exploitation/XSS.md",
     "Web-Exploitation/Command-Injection.md",
-    "Bookmarks.md",
     "Images/Web-Enumeration.png",
     "Privelege-Escalation/Linux.md",
     "conflict-files-obsidian-git.md",
