@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Misc/Printer-Hacking.md",
+            "file": "Bookmarks.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Printer-Hacking.md",
+                "file": "Bookmarks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,9 +87,9 @@
   },
   "active": "a75922d625cd68d1",
   "lastOpenFiles": [
+    "Bookmarks.md",
     "Misc/Printer-Hacking.md",
     "conflict-files-obsidian-git.md",
-    "Bookmarks.md",
     "BackDoor/Linux.md",
     "BackDoor/Tools/Crontab.md",
     "Hash-cracking/Hash-Cracking.md",
