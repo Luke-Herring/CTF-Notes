@@ -9,9 +9,17 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bookmarks.md",
+            "file": "Web-Exploitation/SQL-injection.md",
             "mode": "source"
           }
+        }
+      },
+      {
+        "id": "0d4fa491e325c68c",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bookmarks.md",
+                "file": "Web-Exploitation/SQL-injection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +96,8 @@
   },
   "active": "b2f73117aa9d26d1",
   "lastOpenFiles": [
+    "Web-Exploitation/SQL-injection.md",
+    "conflict-files-obsidian-git.md",
     "Bookmarks.md",
     "Privelege-Escalation/Linux.md",
     "Web-Exploitation/XSS.md",
@@ -95,8 +105,6 @@
     "BackDoor/Linux.md",
     "BackDoor/Tools/Crontab.md",
     "Privelege-Escalation/Untitled.md",
-    "Hash-cracking/Scripts/Hydra.md",
-    "Privelege-Escalation/LinEnum/LinEnum.md",
-    "Hash-cracking/Hash-Cracking.md"
+    "Hash-cracking/Scripts/Hydra.md"
   ]
 }
