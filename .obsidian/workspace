@@ -9,17 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bookmarks.md",
+            "file": "Privelege-Escalation/Windows.md",
             "mode": "source"
           }
-        }
-      },
-      {
-        "id": "0d4fa491e325c68c",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
         }
       }
     ],
@@ -76,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bookmarks.md",
+                "file": "Privelege-Escalation/Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +88,15 @@
   },
   "active": "b2f73117aa9d26d1",
   "lastOpenFiles": [
+    "Privelege-Escalation/Windows.md",
+    "Hash-cracking/Hash-Cracking.md",
+    "Hash-cracking/Scripts/Hydra.md",
     "Bookmarks.md",
+    "Privelege-Escalation/Linux.md",
+    "Privelege-Escalation/Untitled.md",
     "Web-Exploitation/SQL-injection.md",
     "Web-Exploitation/XSS.md",
     "Web-Exploitation/Command-Injection.md",
-    "Images/Web-Enumeration.png",
-    "Privelege-Escalation/Linux.md",
-    "conflict-files-obsidian-git.md",
-    "Web-Exploitation/Untitled.md",
-    "BackDoor/Linux.md",
-    "BackDoor/Tools/Crontab.md"
+    "Images/Web-Enumeration.png"
   ]
 }
