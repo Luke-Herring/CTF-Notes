@@ -4,7 +4,7 @@
   "autoSaveInterval": 1,
   "autoPullInterval": 1,
   "autoPullOnBoot": true,
-  "disablePush": false,
+  "disablePush": true,
   "pullBeforePush": true,
   "disablePopups": false,
   "listChangedFilesInMessageBody": false,
