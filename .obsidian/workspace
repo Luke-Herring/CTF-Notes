@@ -97,14 +97,14 @@
   "active": "b2f73117aa9d26d1",
   "lastOpenFiles": [
     "Web-Exploitation/SQL-injection.md",
-    "conflict-files-obsidian-git.md",
-    "Bookmarks.md",
-    "Privelege-Escalation/Linux.md",
     "Web-Exploitation/XSS.md",
+    "Web-Exploitation/Command-Injection.md",
+    "Bookmarks.md",
+    "Images/Web-Enumeration.png",
+    "Privelege-Escalation/Linux.md",
+    "conflict-files-obsidian-git.md",
     "Web-Exploitation/Untitled.md",
     "BackDoor/Linux.md",
-    "BackDoor/Tools/Crontab.md",
-    "Privelege-Escalation/Untitled.md",
-    "Hash-cracking/Scripts/Hydra.md"
+    "BackDoor/Tools/Crontab.md"
   ]
 }
