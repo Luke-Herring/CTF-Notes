@@ -51,6 +51,7 @@
 -- wine gcc –o w00t.exe /tmp/<exploit>.c -l lib
 
 				psexec
+	
 --  psexec.py <user>@<host> <cmd>
 --  psexec.exe \\<host> <cmd>
    

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Privelege-Escalation/Windows.md",
+            "file": "Bookmarks.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Privelege-Escalation/Windows.md",
+                "file": "Bookmarks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,10 +88,10 @@
   },
   "active": "b2f73117aa9d26d1",
   "lastOpenFiles": [
+    "Bookmarks.md",
     "Privelege-Escalation/Windows.md",
     "Hash-cracking/Hash-Cracking.md",
     "Hash-cracking/Scripts/Hydra.md",
-    "Bookmarks.md",
     "Privelege-Escalation/Linux.md",
     "Privelege-Escalation/Untitled.md",
     "Web-Exploitation/SQL-injection.md",
