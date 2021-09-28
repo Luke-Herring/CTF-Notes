@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Misc/Metasploit.md",
+            "file": "Privelege-Escalation/Windows.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Metasploit.md",
+                "file": "Privelege-Escalation/Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "b2f73117aa9d26d1",
   "lastOpenFiles": [
+    "Privelege-Escalation/Windows.md",
+    "Privelege-Escalation/Linux.md",
+    "Bookmarks.md",
+    "Web-Exploitation/Command-Injection.md",
     "Misc/Metasploit.md",
     "Misc/Untitled.md",
-    "Bookmarks.md",
-    "Privelege-Escalation/Windows.md",
     "Hash-cracking/Hash-Cracking.md",
     "Hash-cracking/Scripts/Hydra.md",
-    "Privelege-Escalation/Linux.md",
     "Privelege-Escalation/Untitled.md",
-    "Web-Exploitation/SQL-injection.md",
-    "Web-Exploitation/XSS.md"
+    "Web-Exploitation/SQL-injection.md"
   ]
 }
