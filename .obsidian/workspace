@@ -88,6 +88,7 @@
   },
   "active": "b2f73117aa9d26d1",
   "lastOpenFiles": [
+    "Misc/Metasploit.md",
     "Misc/Untitled.md",
     "Bookmarks.md",
     "Privelege-Escalation/Windows.md",
@@ -96,7 +97,6 @@
     "Privelege-Escalation/Linux.md",
     "Privelege-Escalation/Untitled.md",
     "Web-Exploitation/SQL-injection.md",
-    "Web-Exploitation/XSS.md",
-    "Web-Exploitation/Command-Injection.md"
+    "Web-Exploitation/XSS.md"
   ]
 }
