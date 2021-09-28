@@ -14,6 +14,8 @@
 -- Stagers	Responsible for setting up a connection channel between Metasploit and the target system
 -- Stages	This will allow you to use larger sized payloads.
 
+				Meterpreter
+-- Run in RAM this aims to avoid antivirus
 
 				Tools
 -- Stand-alone tools that will help vulnerability research, vulnerability assessment, or penetration testing. Some of these tools are msfvenom, pattern_create and pattern_offset.
