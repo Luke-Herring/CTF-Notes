@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Privelege-Escalation/Windows.md",
+            "file": "Web-Exploitation/SQL-injection.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Privelege-Escalation/Windows.md",
+                "file": "Web-Exploitation/SQL-injection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "b2f73117aa9d26d1",
   "lastOpenFiles": [
+    "Web-Exploitation/SQL-injection.md",
     "Privelege-Escalation/Windows.md",
+    "Images/Web-Enumeration.png",
+    "Images/ExWTt04WEAQt8M2.png",
+    "Images/Exq3yygWYAo6zrS.png",
+    "Images/ExOlEnUWYAUb-Ca.png",
     "Privelege-Escalation/Linux.md",
     "Bookmarks.md",
     "Web-Exploitation/Command-Injection.md",
-    "Misc/Metasploit.md",
-    "Misc/Untitled.md",
-    "Hash-cracking/Hash-Cracking.md",
-    "Hash-cracking/Scripts/Hydra.md",
-    "Privelege-Escalation/Untitled.md",
-    "Web-Exploitation/SQL-injection.md"
+    "Misc/Metasploit.md"
   ]
 }
