@@ -1,4 +1,4 @@
-					Option 1(easiest)
+					Option 1
 -- Attacker:
 	-- python3 -m http.server 8000			starts webserver for listening
 

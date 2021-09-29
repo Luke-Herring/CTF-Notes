@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web-Exploitation/SQL-injection.md",
+            "file": "Privelege-Escalation/LinEnum.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web-Exploitation/SQL-injection.md",
+                "file": "Privelege-Escalation/LinEnum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "b2f73117aa9d26d1",
   "lastOpenFiles": [
+    "Privelege-Escalation/LinEnum.md",
     "Web-Exploitation/SQL-injection.md",
     "Privelege-Escalation/Windows.md",
     "Images/Web-Enumeration.png",
@@ -96,7 +97,6 @@
     "Images/ExOlEnUWYAUb-Ca.png",
     "Privelege-Escalation/Linux.md",
     "Bookmarks.md",
-    "Web-Exploitation/Command-Injection.md",
-    "Misc/Metasploit.md"
+    "Web-Exploitation/Command-Injection.md"
   ]
 }
