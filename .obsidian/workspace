@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Privelege-Escalation/LinEnum.md",
+            "file": "BackDoor/Linux.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Privelege-Escalation/LinEnum.md",
+                "file": "BackDoor/Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "b2f73117aa9d26d1",
   "lastOpenFiles": [
-    "Privelege-Escalation/LinEnum.md",
+    "BackDoor/Linux.md",
+    "BackDoor/Tools/Crontab.md",
+    "Hash-cracking/Hash-Cracking.md",
+    "Misc/Printer-Hacking.md",
+    "Misc/Metasploit.md",
+    "Web-Exploitation/Command-Injection.md",
     "Web-Exploitation/SQL-injection.md",
+    "Web-Exploitation/XSS.md",
     "Privelege-Escalation/Windows.md",
-    "Images/Web-Enumeration.png",
-    "Images/ExWTt04WEAQt8M2.png",
-    "Images/Exq3yygWYAo6zrS.png",
-    "Images/ExOlEnUWYAUb-Ca.png",
-    "Privelege-Escalation/Linux.md",
-    "Bookmarks.md",
-    "Web-Exploitation/Command-Injection.md"
+    "Privelege-Escalation/Linux.md"
   ]
 }

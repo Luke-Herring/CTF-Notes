@@ -10,9 +10,9 @@
 
 					Option 2(less privileges)
 -- Attacker:
-	--Copy LinEnum code to Target			(.sh Extension)
+	--Copy LinEnum code to Target		      (.sh Extension)
 	--chmod +x LinEnum.sh				   makes file executable
-	--/LinEnum.sh								runs file
+	--/LinEnum.sh						    runs file
 
 
 					LineEnum Output
