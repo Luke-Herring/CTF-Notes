@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web-Exploitation/SQL-injection.md",
+            "file": "Bookmarks.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web-Exploitation/SQL-injection.md",
+                "file": "Bookmarks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "b2f73117aa9d26d1",
   "lastOpenFiles": [
+    "Bookmarks.md",
     "Web-Exploitation/SQL-injection.md",
     "BackDoor/Linux.md",
     "BackDoor/Tools/Crontab.md",
@@ -96,7 +97,6 @@
     "Misc/Metasploit.md",
     "Web-Exploitation/Command-Injection.md",
     "Web-Exploitation/XSS.md",
-    "Privelege-Escalation/Windows.md",
-    "Privelege-Escalation/Linux.md"
+    "Privelege-Escalation/Windows.md"
   ]
 }
