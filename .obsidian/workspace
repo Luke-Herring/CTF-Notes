@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bookmarks.md",
+            "file": "Web-Exploitation/XSS.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bookmarks.md",
+                "file": "Web-Exploitation/XSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "b2f73117aa9d26d1",
   "lastOpenFiles": [
+    "Web-Exploitation/XSS.md",
     "Bookmarks.md",
     "Web-Exploitation/SQL-injection.md",
     "BackDoor/Linux.md",
@@ -96,7 +97,6 @@
     "Misc/Printer-Hacking.md",
     "Misc/Metasploit.md",
     "Web-Exploitation/Command-Injection.md",
-    "Web-Exploitation/XSS.md",
     "Privelege-Escalation/Windows.md"
   ]
 }
