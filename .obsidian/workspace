@@ -7,10 +7,9 @@
         "id": "b2f73117aa9d26d1",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Web-Exploitation/XSS.md",
-            "mode": "source"
+            "file": "Images/Web-Enumeration.png"
           }
         }
       }
@@ -68,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web-Exploitation/XSS.md",
+                "file": "Images/Web-Enumeration.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +87,15 @@
   },
   "active": "b2f73117aa9d26d1",
   "lastOpenFiles": [
-    "Web-Exploitation/XSS.md",
+    "Images/Web-Enumeration.png",
+    "Images/ExWTt04WEAQt8M2.png",
+    "Images/Exq3yygWYAo6zrS.png",
+    "Images/ExOlEnUWYAUb-Ca.png",
     "Bookmarks.md",
+    "Web-Exploitation/XSS.md",
     "Web-Exploitation/SQL-injection.md",
     "BackDoor/Linux.md",
     "BackDoor/Tools/Crontab.md",
-    "Hash-cracking/Hash-Cracking.md",
-    "Misc/Printer-Hacking.md",
-    "Misc/Metasploit.md",
-    "Web-Exploitation/Command-Injection.md",
-    "Privelege-Escalation/Windows.md"
+    "Hash-cracking/Hash-Cracking.md"
   ]
 }
