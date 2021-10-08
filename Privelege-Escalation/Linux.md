@@ -14,7 +14,7 @@
 				/etc/passwd
 -- cat /etc/passwd
 
--- openssl passwd newpasswordhere		Changes root password
+-- openssl passwd newpassw		Changes root password
 
 				Misc
 -- cat ~/.*history | less						
