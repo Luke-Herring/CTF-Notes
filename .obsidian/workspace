@@ -7,8 +7,11 @@
         "id": "b2f73117aa9d26d1",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Web-Exploitation/File-Inclusion.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Web-Exploitation/File-Inclusion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,8 +88,8 @@
   },
   "active": "b2f73117aa9d26d1",
   "lastOpenFiles": [
-    "Web-Exploitation/XSS.md",
     "Web-Exploitation/File-Inclusion.md",
+    "Web-Exploitation/XSS.md",
     "Web-Exploitation/Untitled.md",
     "Web-Exploitation/SQL-injection.md",
     "Web-Exploitation/Command-Injection.md",
