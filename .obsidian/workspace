@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web-Exploitation/SQL-injection.md",
+            "file": "Privelege-Escalation/Linux.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web-Exploitation/SQL-injection.md",
+                "file": "Privelege-Escalation/Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,8 +87,8 @@
   },
   "active": "b2f73117aa9d26d1",
   "lastOpenFiles": [
-    "Web-Exploitation/SQL-injection.md",
     "Privelege-Escalation/Linux.md",
+    "Web-Exploitation/SQL-injection.md",
     "Web-Exploitation/File-Inclusion.md",
     "Web-Exploitation/XSS.md",
     "Web-Exploitation/Untitled.md",
