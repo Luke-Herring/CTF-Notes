@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Misc/Assembly x86-64.md",
+            "file": "Misc/Printer-Hacking.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Assembly x86-64.md",
+                "file": "Misc/Printer-Hacking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,6 +87,8 @@
   },
   "active": "b2f73117aa9d26d1",
   "lastOpenFiles": [
+    "Misc/Printer-Hacking.md",
+    "Misc/Metasploit.md",
     "Misc/Untitled.md",
     "Privelege-Escalation/Linux.md",
     "Web-Exploitation/SQL-injection.md",
@@ -94,8 +96,6 @@
     "Web-Exploitation/XSS.md",
     "Web-Exploitation/Untitled.md",
     "Web-Exploitation/Command-Injection.md",
-    "BackDoor/Linux.md",
-    "Images/Exq3yygWYAo6zrS.png",
-    "Images/ExOlEnUWYAUb-Ca.png"
+    "BackDoor/Linux.md"
   ]
 }
