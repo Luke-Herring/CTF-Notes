@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Misc/Printer-Hacking.md",
+            "file": "Privelege-Escalation/Linux.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Printer-Hacking.md",
+                "file": "Privelege-Escalation/Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +87,15 @@
   },
   "active": "b2f73117aa9d26d1",
   "lastOpenFiles": [
+    "Privelege-Escalation/Linux.md",
+    "Privelege-Escalation/LinEnum.md",
     "Misc/Printer-Hacking.md",
     "Misc/Metasploit.md",
     "Misc/Untitled.md",
-    "Privelege-Escalation/Linux.md",
     "Web-Exploitation/SQL-injection.md",
     "Web-Exploitation/File-Inclusion.md",
     "Web-Exploitation/XSS.md",
     "Web-Exploitation/Untitled.md",
-    "Web-Exploitation/Command-Injection.md",
-    "BackDoor/Linux.md"
+    "Web-Exploitation/Command-Injection.md"
   ]
 }
