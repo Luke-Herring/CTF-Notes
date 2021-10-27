@@ -1,4 +1,4 @@
-				PRET
+ 				PRET
 -- ps (Postscript)
 -- pjl (Printer Job Language)
 -- pcl (Printer Command Language)
