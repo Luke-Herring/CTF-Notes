@@ -22,7 +22,7 @@
 -- hostname
 -- ifconfig 
 -- uname -a
-
+-- sudo env
 
 				Links
 -- https://gtfobins.github.io/
