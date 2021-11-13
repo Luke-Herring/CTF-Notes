@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web-Exploitation/phishing.md",
+            "file": "Post-Exploitation/Linux.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web-Exploitation/phishing.md",
+                "file": "Post-Exploitation/Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +87,15 @@
   },
   "active": "b2f73117aa9d26d1",
   "lastOpenFiles": [
+    "Post-Exploitation/Linux.md",
+    "Post-Exploitation/BackDoor/Tools/Crontab.md",
+    "Privelege-Escalation/Linux.md",
+    "Privelege-Escalation/LinEnum.md",
+    "Web-Exploitation/File-Inclusion.md",
+    "Web-Exploitation/Content-Discovery.md",
+    "Web-Exploitation/Command-Injection.md",
     "Web-Exploitation/phishing.md",
     "Web-Exploitation/SQL-injection.md",
-    "Privelege-Escalation/Linux.md",
-    "Bookmarks.md",
-    "Web-Exploitation/Command-Injection.md",
-    "Privelege-Escalation/Windows.md",
-    "Privelege-Escalation/LinEnum.md",
-    "Misc/Printer-Hacking.md",
-    "Misc/Metasploit.md",
-    "Misc/Untitled.md"
+    "Bookmarks.md"
   ]
 }
