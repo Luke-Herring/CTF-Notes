@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Post-Exploitation/BackDoor-Linux.md",
+            "file": "Post-Exploitation/Enumeration.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Post-Exploitation/BackDoor-Linux.md",
+                "file": "Post-Exploitation/Enumeration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,6 +87,7 @@
   },
   "active": "b2f73117aa9d26d1",
   "lastOpenFiles": [
+    "Post-Exploitation/Enumeration.md",
     "Post-Exploitation/BackDoor-Linux.md",
     "Post-Exploitation/Linux.md",
     "Post-Exploitation/BackDoor/Tools/Crontab.md",
@@ -95,7 +96,6 @@
     "Web-Exploitation/File-Inclusion.md",
     "Web-Exploitation/Content-Discovery.md",
     "Web-Exploitation/Command-Injection.md",
-    "Web-Exploitation/phishing.md",
-    "Web-Exploitation/SQL-injection.md"
+    "Web-Exploitation/phishing.md"
   ]
 }
