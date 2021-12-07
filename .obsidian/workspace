@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Post-Exploitation/BackDoor-Linux.md",
+            "file": "Web-Exploitation/SQL-injection.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Post-Exploitation/BackDoor-Linux.md",
+                "file": "Web-Exploitation/SQL-injection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,6 +87,7 @@
   },
   "active": "b2f73117aa9d26d1",
   "lastOpenFiles": [
+    "Web-Exploitation/SQL-injection.md",
     "Post-Exploitation/BackDoor-Linux.md",
     "Post-Exploitation/Enumeration.md",
     "Post-Exploitation/Linux.md",
@@ -95,7 +96,6 @@
     "Privelege-Escalation/LinEnum.md",
     "Web-Exploitation/File-Inclusion.md",
     "Web-Exploitation/Content-Discovery.md",
-    "Web-Exploitation/Command-Injection.md",
-    "Web-Exploitation/phishing.md"
+    "Web-Exploitation/Command-Injection.md"
   ]
 }
