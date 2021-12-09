@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web-Exploitation/Command-Injection.md",
+            "file": "Tools/Metasploit.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web-Exploitation/Command-Injection.md",
+                "file": "Tools/Metasploit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,19 +83,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "b2f73117aa9d26d1",
   "lastOpenFiles": [
+    "Tools/Metasploit.md",
+    "Hash-cracking/Hash-Cracking.md",
+    "Web-Exploitation/Content-Discovery.md",
+    "Tools/LinEnum.md",
     "Web-Exploitation/Command-Injection.md",
     "Post-Exploitation/Enumeration.md",
     "Post-Exploitation/BackDoor-Linux.md",
     "Images/Web-Enumeration.png",
     "Images/ExWTt04WEAQt8M2.png",
-    "Images/Exq3yygWYAo6zrS.png",
-    "Images/0*rOZTLGBULgHhS2p_.png",
-    "Bookmarks.md",
-    "Privelege-Escalation/Linux.md",
-    "Web-Exploitation/XSS.md"
+    "Images/Exq3yygWYAo6zrS.png"
   ]
 }
