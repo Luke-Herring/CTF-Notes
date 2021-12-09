@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web-Exploitation/XSS.md",
+            "file": "Hash-cracking/Hash-Cracking.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web-Exploitation/XSS.md",
+                "file": "Hash-cracking/Hash-Cracking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "b2f73117aa9d26d1",
   "lastOpenFiles": [
-    "Web-Exploitation/XSS.md",
     "Hash-cracking/Hash-Cracking.md",
-    "Tools/LinEnum.md",
+    "Bookmarks.md",
     "Privelege-Escalation/Linux.md",
+    "Web-Exploitation/Command-Injection.md",
+    "Web-Exploitation/XSS.md",
+    "Tools/LinEnum.md",
     "Post-Exploitation/Enumeration.md",
     "Post-Exploitation/BackDoor-Linux.md",
     "Web-Exploitation/SQL-injection.md",
-    "Tools/Metasploit.md",
-    "Web-Exploitation/Content-Discovery.md",
-    "Web-Exploitation/Command-Injection.md"
+    "Tools/Metasploit.md"
   ]
 }
