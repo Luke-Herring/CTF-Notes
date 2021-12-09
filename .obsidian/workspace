@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bookmarks.md",
+            "file": "Web-Exploitation/Command-Injection.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bookmarks.md",
+                "file": "Web-Exploitation/Command-Injection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +87,15 @@
   },
   "active": "b2f73117aa9d26d1",
   "lastOpenFiles": [
+    "Web-Exploitation/Command-Injection.md",
+    "Post-Exploitation/Enumeration.md",
+    "Post-Exploitation/BackDoor-Linux.md",
+    "Images/Web-Enumeration.png",
+    "Images/ExWTt04WEAQt8M2.png",
+    "Images/Exq3yygWYAo6zrS.png",
+    "Images/0*rOZTLGBULgHhS2p_.png",
     "Bookmarks.md",
     "Privelege-Escalation/Linux.md",
-    "Web-Exploitation/XSS.md",
-    "Web-Exploitation/SQL-injection.md",
-    "Post-Exploitation/BackDoor-Linux.md",
-    "Post-Exploitation/Enumeration.md",
-    "Post-Exploitation/Linux.md",
-    "Post-Exploitation/BackDoor/Tools/Crontab.md",
-    "Privelege-Escalation/LinEnum.md",
-    "Web-Exploitation/File-Inclusion.md"
+    "Web-Exploitation/XSS.md"
   ]
 }
