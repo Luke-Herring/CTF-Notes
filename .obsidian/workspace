@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web-Exploitation/XSS.md",
+            "file": "Privelege-Escalation/Linux.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web-Exploitation/XSS.md",
+                "file": "Privelege-Escalation/Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,13 +87,13 @@
   },
   "active": "b2f73117aa9d26d1",
   "lastOpenFiles": [
+    "Privelege-Escalation/Linux.md",
     "Web-Exploitation/XSS.md",
     "Web-Exploitation/SQL-injection.md",
     "Post-Exploitation/BackDoor-Linux.md",
     "Post-Exploitation/Enumeration.md",
     "Post-Exploitation/Linux.md",
     "Post-Exploitation/BackDoor/Tools/Crontab.md",
-    "Privelege-Escalation/Linux.md",
     "Privelege-Escalation/LinEnum.md",
     "Web-Exploitation/File-Inclusion.md",
     "Web-Exploitation/Content-Discovery.md"
