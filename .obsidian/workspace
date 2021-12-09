@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Hash-cracking/Hash-Cracking.md",
+            "file": "Privelege-Escalation/Linux.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hash-cracking/Hash-Cracking.md",
+                "file": "Privelege-Escalation/Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,9 +88,9 @@
   },
   "active": "b2f73117aa9d26d1",
   "lastOpenFiles": [
+    "Privelege-Escalation/Linux.md",
     "Hash-cracking/Hash-Cracking.md",
     "Bookmarks.md",
-    "Privelege-Escalation/Linux.md",
     "Web-Exploitation/Command-Injection.md",
     "Web-Exploitation/XSS.md",
     "Tools/LinEnum.md",
