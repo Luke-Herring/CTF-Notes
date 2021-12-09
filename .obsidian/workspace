@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Privelege-Escalation/Linux.md",
+            "file": "Bookmarks.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Privelege-Escalation/Linux.md",
+                "file": "Bookmarks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,6 +87,7 @@
   },
   "active": "b2f73117aa9d26d1",
   "lastOpenFiles": [
+    "Bookmarks.md",
     "Privelege-Escalation/Linux.md",
     "Web-Exploitation/XSS.md",
     "Web-Exploitation/SQL-injection.md",
@@ -95,7 +96,6 @@
     "Post-Exploitation/Linux.md",
     "Post-Exploitation/BackDoor/Tools/Crontab.md",
     "Privelege-Escalation/LinEnum.md",
-    "Web-Exploitation/File-Inclusion.md",
-    "Web-Exploitation/Content-Discovery.md"
+    "Web-Exploitation/File-Inclusion.md"
   ]
 }
