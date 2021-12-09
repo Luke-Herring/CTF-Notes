@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Tools/Metasploit.md",
+            "file": "Web-Exploitation/SQL-injection.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools/Metasploit.md",
+                "file": "Web-Exploitation/SQL-injection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "b2f73117aa9d26d1",
   "lastOpenFiles": [
+    "Web-Exploitation/SQL-injection.md",
     "Tools/Metasploit.md",
     "Hash-cracking/Hash-Cracking.md",
     "Web-Exploitation/Content-Discovery.md",
@@ -96,7 +97,6 @@
     "Post-Exploitation/Enumeration.md",
     "Post-Exploitation/BackDoor-Linux.md",
     "Images/Web-Enumeration.png",
-    "Images/ExWTt04WEAQt8M2.png",
-    "Images/Exq3yygWYAo6zrS.png"
+    "Images/ExWTt04WEAQt8M2.png"
   ]
 }
