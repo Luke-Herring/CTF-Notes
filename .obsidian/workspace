@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Privelege-Escalation/Linux.md",
+            "file": "Web-Exploitation/SQL-injection.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Privelege-Escalation/Linux.md",
+                "file": "Web-Exploitation/SQL-injection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "b2f73117aa9d26d1",
   "lastOpenFiles": [
+    "Web-Exploitation/SQL-injection.md",
+    "Privelege-Escalation/Windows.md",
     "Privelege-Escalation/Linux.md",
     "Hash-cracking/Hash-Cracking.md",
     "Bookmarks.md",
@@ -95,8 +97,6 @@
     "Web-Exploitation/XSS.md",
     "Tools/LinEnum.md",
     "Post-Exploitation/Enumeration.md",
-    "Post-Exploitation/BackDoor-Linux.md",
-    "Web-Exploitation/SQL-injection.md",
-    "Tools/Metasploit.md"
+    "Post-Exploitation/BackDoor-Linux.md"
   ]
 }
