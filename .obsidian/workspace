@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web-Exploitation/SQL-injection.md",
+            "file": "Web-Exploitation/File-Inclusion.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web-Exploitation/SQL-injection.md",
+                "file": "Web-Exploitation/File-Inclusion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "b2f73117aa9d26d1",
   "lastOpenFiles": [
+    "Web-Exploitation/File-Inclusion.md",
     "Web-Exploitation/SQL-injection.md",
+    "Web-Exploitation/phishing.md",
     "Privelege-Escalation/Windows.md",
     "Privelege-Escalation/Linux.md",
     "Hash-cracking/Hash-Cracking.md",
     "Bookmarks.md",
     "Web-Exploitation/Command-Injection.md",
     "Web-Exploitation/XSS.md",
-    "Tools/LinEnum.md",
-    "Post-Exploitation/Enumeration.md",
-    "Post-Exploitation/BackDoor-Linux.md"
+    "Tools/LinEnum.md"
   ]
 }
