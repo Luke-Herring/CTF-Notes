@@ -1,4 +1,4 @@
-				Pentesting Practice
+				Practice
 -- https://app.hackthebox.eu/
 -- https://tryhackme.com/
 -- https://vulnhub.com/
