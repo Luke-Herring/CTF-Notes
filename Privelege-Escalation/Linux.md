@@ -10,7 +10,8 @@ Create a copy of /bin/bash or /bin/sh can you call it rootbash - make sure its o
 can you read /etc/shadow? Try brute force
 				
 				Writeable /etc/shadow
-ls -l /etc/shadow			checking i
+ls -l /etc/shadow					is /etc/shadow writable
+mkpasswd -m sha-512 password		
 
 				Docker
 -- get image name using 'docker ps'
