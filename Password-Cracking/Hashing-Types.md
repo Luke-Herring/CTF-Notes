@@ -3,4 +3,4 @@
 -- $2a$ Blowfish
 -- $2y$ Eksblowfish
 -- $5$   SHA-256
--- $6$   SHA-512
+-- $6$   SHA-512      

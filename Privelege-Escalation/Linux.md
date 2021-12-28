@@ -8,7 +8,7 @@ Create a copy of /bin/bash or /bin/sh can you call it rootbash - make sure its o
 
 				/etc/shadow
 can you read /etc/shadow? Try brute force
-can you overwrite /etc/shadow?
+				
 
 				Docker
 -- get image name using 'docker ps'
