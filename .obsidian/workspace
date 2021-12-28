@@ -7,10 +7,9 @@
         "id": "8c8c60466aff3801",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Nmap.md",
-            "mode": "source"
+            "file": "nmap.png"
           }
         }
       }
@@ -68,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nmap.md",
+                "file": "nmap.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +87,15 @@
   },
   "active": "8c8c60466aff3801",
   "lastOpenFiles": [
-    "Nmap.md",
+    "nmap.png",
     "Web-Exploitation/Enumeration.md",
+    "Nmap.md",
     "Web-Exploitation/Phishing.md",
     "Bookmarks.md",
     "Web-Exploitation/Sql-injection.md",
     "Post-Exploitation/Linux-Backdoor.md",
     "Privelege-Escalation/Linux.md",
     "Web-Exploitation/XSS.md",
-    "Recon.md",
-    "Password-Cracking/Hydra.md"
+    "Recon.md"
   ]
 }
