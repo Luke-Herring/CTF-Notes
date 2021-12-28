@@ -9,6 +9,7 @@ Create a copy of /bin/bash or /bin/sh can you call it rootbash - make sure its o
 				Writeable /etc/shadow
 ls -l /etc/shadow					is /etc/shadow writable
 mkpasswd -m sha-512 password		Makes password Hash
+-- replace root password
 su root								switch to user
 
 				Docker
