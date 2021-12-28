@@ -9,6 +9,8 @@ Create a copy of /bin/bash or /bin/sh can you call it rootbash - make sure its o
 				/etc/shadow
 can you read /etc/shadow? Try brute force
 				
+				Writeable /etc/shadow
+ls -l /etc/shadow			checking i
 
 				Docker
 -- get image name using 'docker ps'
