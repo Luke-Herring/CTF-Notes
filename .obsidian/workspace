@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Post-Exploitation/Linux-Backdoor.md",
+            "file": "Web-Exploitation/XSS.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Post-Exploitation/Linux-Backdoor.md",
+                "file": "Web-Exploitation/XSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "8c8c60466aff3801",
   "lastOpenFiles": [
-    "Post-Exploitation/Linux-Backdoor.md",
-    "Privelege-Escalation/Linux.md",
     "Web-Exploitation/XSS.md",
     "Web-Exploitation/Sql-injection.md",
     "Web-Exploitation/Phishing.md",
+    "Bookmarks.md",
+    "Post-Exploitation/Linux-Backdoor.md",
+    "Privelege-Escalation/Linux.md",
     "Privelege-Escalation/Windows.md",
     "Password-Cracking/Hashing-Types.md",
     "Password-Cracking/Hydra.md",
-    "Web-Exploitation/Enumeration.md",
-    "Post-Exploitation/BackDoor-Linux.md"
+    "Web-Exploitation/Enumeration.md"
   ]
 }
