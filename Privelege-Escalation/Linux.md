@@ -7,7 +7,7 @@ what can we run with sudo?			  sudo -l
 Create a copy of /bin/bash or /bin/sh can you call it rootbash - make sure its owned by the root user. Then use /bin/bash -p to run it
 
 				/etc/shadow
-can you read /etc/shadow? 
+can you read /etc/shadow? Try brute force
 can you overwrite /etc/shadow?
 
 				Docker
