@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Privelege-Escalation/Linux.md",
+            "file": "Password-Cracking/Hashing-Types.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Privelege-Escalation/Linux.md",
+                "file": "Password-Cracking/Hashing-Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,12 +88,12 @@
   },
   "active": "8c8c60466aff3801",
   "lastOpenFiles": [
+    "Password-Cracking/Hashing-Types.md",
     "Privelege-Escalation/Linux.md",
     "Web-Exploitation/Enumeration.md",
     "Post-Exploitation/Linux-Backdoor.md",
     "Recon.md",
     "Bookmarks.md",
-    "Password-Cracking/Hashing-Types.md",
     "Password-Cracking/Hydra.md",
     "Web-Exploitation/XSS.md",
     "Web-Exploitation/Sql-injection.md",
