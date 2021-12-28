@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web-Exploitation/XSS.md",
+            "file": "Password-Cracking/Hydra.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web-Exploitation/XSS.md",
+                "file": "Password-Cracking/Hydra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "8c8c60466aff3801",
   "lastOpenFiles": [
+    "Password-Cracking/Hydra.md",
     "Web-Exploitation/XSS.md",
     "Web-Exploitation/Sql-injection.md",
     "Web-Exploitation/Phishing.md",
@@ -96,7 +97,6 @@
     "Privelege-Escalation/Linux.md",
     "Privelege-Escalation/Windows.md",
     "Password-Cracking/Hashing-Types.md",
-    "Password-Cracking/Hydra.md",
     "Web-Exploitation/Enumeration.md"
   ]
 }
