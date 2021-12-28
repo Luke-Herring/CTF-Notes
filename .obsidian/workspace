@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web-Exploitation/Enumeration.md",
+            "file": "Recon.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web-Exploitation/Enumeration.md",
+                "file": "Recon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "8c8c60466aff3801",
   "lastOpenFiles": [
+    "Recon.md",
     "Web-Exploitation/Enumeration.md",
     "Post-Exploitation/Linux-Backdoor.md",
     "Password-Cracking/Hashing-Types.md",
@@ -96,7 +97,6 @@
     "Web-Exploitation/XSS.md",
     "Web-Exploitation/Sql-injection.md",
     "Web-Exploitation/Phishing.md",
-    "Bookmarks.md",
-    "Privelege-Escalation/Windows.md"
+    "Bookmarks.md"
   ]
 }
