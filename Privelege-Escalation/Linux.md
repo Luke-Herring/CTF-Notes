@@ -6,11 +6,13 @@ what can we run with sudo?			  sudo -l
 				Spawning root shells
 Create a copy of /bin/bash or /bin/sh can you call it rootbash - make sure its owned by the root user. Then use /bin/bash -p to run it
 
-				Writeable /etc/shadow
+				Writable /etc/shadow
 ls -l /etc/shadow					is /etc/shadow writable
 mkpasswd -m sha-512 password		Makes password Hash
--- replace root password
+-- replace root password hash with the one you just generated
 su root								switch to user
+
+			 	Writable /etc/pas
 
 				Docker
 -- get image name using 'docker ps'
