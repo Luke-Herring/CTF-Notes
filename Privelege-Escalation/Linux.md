@@ -11,7 +11,7 @@ can you read /etc/shadow? Try brute force
 				
 				Writeable /etc/shadow
 ls -l /etc/shadow					is /etc/shadow writable
-mkpasswd -m sha-512 password		
+mkpasswd -m sha-512 password		Makes password Hash
 
 				Docker
 -- get image name using 'docker ps'
