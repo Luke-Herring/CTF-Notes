@@ -14,7 +14,7 @@ su root								switch to user
 
 			 	Writable /etc/passwd
 ls -l /etc/passwd					is /etc/passwd writeable?
-openssl passwd password			     
+openssl passwd password			      Generate password hash
 
 				Docker
 -- get image name using 'docker ps'
