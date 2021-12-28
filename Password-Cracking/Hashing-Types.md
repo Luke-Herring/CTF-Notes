@@ -1,5 +1,6 @@
 				Linux Hashing /etc/shadow
--- md5crypt $1$, MD5(Unix)
--- bcrypt $2*$, Blowfish(Unix)				
--- sha256crypt $5$, SHA256(Unix)
--- sha512crypt $6$, SHA512(Unix)
+-- $1$   MD5
+-- $2a$ Blowfish
+-- $2y$ Eksblowfish
+-- $5$   SHA-256
+-- $6$   SHA-512
