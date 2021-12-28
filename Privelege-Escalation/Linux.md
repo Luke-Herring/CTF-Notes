@@ -6,9 +6,9 @@ what can we run with sudo?			  sudo -l
 				Spawning root shells
 Create a copy of /bin/bash or /bin/sh can you call it rootbash - make sure its owned by the root user. Then use /bin/bash -p to run it
 
-				
-
-				/etc/shadow overwrite
+				/etc/shadow
+can you read /etc/shadow? 
+can you overwrite /etc/shadow?
 
 				Docker
 -- get image name using 'docker ps'
