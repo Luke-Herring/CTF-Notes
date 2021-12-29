@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web-Exploitation/Phishing.md",
+            "file": "Web-Exploitation/XSS.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web-Exploitation/Phishing.md",
+                "file": "Web-Exploitation/XSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,13 +88,13 @@
   },
   "active": "8c8c60466aff3801",
   "lastOpenFiles": [
+    "Web-Exploitation/XSS.md",
     "Web-Exploitation/Phishing.md",
     "Web-Exploitation/File-inclusion.md",
     "Password-Cracking/Hashing-Types.md",
     "Password-Cracking/Hydra.md",
     "Post-Exploitation/Linux-Backdoor.md",
     "Privelege-Escalation/Linux.md",
-    "Web-Exploitation/XSS.md",
     "Web-Exploitation/Sql-injection.md",
     "Bookmarks.md",
     "nmap.png"
