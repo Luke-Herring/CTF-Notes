@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Password-Cracking/Hashing-Types.md",
+            "file": "Web-Exploitation/File-inclusion.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Password-Cracking/Hashing-Types.md",
+                "file": "Web-Exploitation/File-inclusion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "8c8c60466aff3801",
   "lastOpenFiles": [
+    "Web-Exploitation/File-inclusion.md",
     "Password-Cracking/Hashing-Types.md",
     "Password-Cracking/Hydra.md",
     "Post-Exploitation/Linux-Backdoor.md",
@@ -96,7 +97,6 @@
     "Web-Exploitation/XSS.md",
     "Web-Exploitation/Sql-injection.md",
     "Bookmarks.md",
-    "nmap.png",
-    "Web-Exploitation/Enumeration.md"
+    "nmap.png"
   ]
 }
