@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Password-Cracking/Crakci.md",
+            "file": "Password-Cracking/Cracking.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Password-Cracking/Crakci.md",
+                "file": "Password-Cracking/Cracking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
   },
   "active": "8c8c60466aff3801",
   "lastOpenFiles": [
-    "Password-Cracking/Crakci.md",
+    "Password-Cracking/Cracking.md",
     "Password-Cracking/Hydra.md",
     "Post-Exploitation/Linux-Backdoor.md",
     "nmap.png",
