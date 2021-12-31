@@ -13,3 +13,5 @@ username_wordlist will be helpful finding out a username
 
 				Default passwords
 www.cirt.net/passwords
+www.default-password.info
+www.datarecovery.com/rd/default-passwords/
