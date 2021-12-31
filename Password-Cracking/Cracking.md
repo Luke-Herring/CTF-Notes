@@ -8,9 +8,6 @@
 				cewl
 cewl -w list.txt -d 5 -m 5 www.Ip.com 			Make a wordlist by crawling the website
 
-username_wordlist will be helpful finding out a username
-
-
 				Default passwords
 www.cirt.net/passwords
 www.default-password.info
