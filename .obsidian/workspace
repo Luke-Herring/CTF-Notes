@@ -18,9 +18,10 @@
         "id": "bfe86c1986cf5cea",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "imgs/SSRF1.png"
+            "file": "Web-Exploitation/File-inclusion.md",
+            "mode": "source"
           }
         }
       }
@@ -78,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "imgs/SSRF1.png",
+                "file": "Web-Exploitation/Server Side Request Forgery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,17 +97,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bfe86c1986cf5cea",
+  "active": "6b1124c490c9ae0b",
   "lastOpenFiles": [
-    "imgs/SSRF1.png",
     "Web-Exploitation/Server Side Request Forgery.md",
+    "Web-Exploitation/File-inclusion.md",
+    "Web-Exploitation/Phishing.md",
+    "imgs/SSRF1.png",
+    "imgs/SSRF2.png",
+    "Web-Exploitation/Sql-injection.md",
     "imgs/SSRF1.md",
     "Web-Exploitation/XSS.md",
     "Privelege-Escalation/Linux.md",
-    "nmap.png",
-    "Password-Cracking/Post-Exploitation/Linux-Backdoor.md",
-    "Password-Cracking/Cracking.md",
-    "Password-Cracking/Hydra.md",
-    "Web-Exploitation/Phishing.md"
+    "nmap.png"
   ]
 }
