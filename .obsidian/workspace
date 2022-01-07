@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web-Exploitation/Sql-injection.md",
-            "mode": "preview"
+            "file": "Post-Exploitation/Linux-Backdoor.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web-Exploitation/Sql-injection.md",
+                "file": "Post-Exploitation/Linux-Backdoor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "6b1124c490c9ae0b",
   "lastOpenFiles": [
+    "Post-Exploitation/Linux-Backdoor.md",
+    "Web-Exploitation/XSS.md",
+    "Bookmarks.md",
     "Web-Exploitation/Sql-injection.md",
     "Web-Exploitation/Server Side Request Forgery.md",
     "Web-Exploitation/Phishing.md",
     "Privelege-Escalation/Linux.md",
     "Password-Cracking/Hydra.md",
     "Password-Cracking/Cracking.md",
-    "Password-Cracking/Post-Exploitation/Linux-Backdoor.md",
-    "Web-Exploitation/File-inclusion.md",
-    "imgs/lfi1.png",
-    "Web-Exploitation/XSS.md"
+    "Web-Exploitation/File-inclusion.md"
   ]
 }
