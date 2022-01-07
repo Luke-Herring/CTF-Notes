@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Web-Exploitation/Server Side Request Forgery.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -89,7 +89,7 @@
   "active": "6b1124c490c9ae0b",
   "lastOpenFiles": [
     "Web-Exploitation/Server Side Request Forgery.md",
-    "imgs/SSRF1.png",
+    "imgs/SSRF1.png.png",
     "imgs/SSRF1.md",
     "Web-Exploitation/XSS.md",
     "Privelege-Escalation/Linux.md",
