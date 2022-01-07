@@ -7,10 +7,9 @@
         "id": "6b1124c490c9ae0b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Web-Exploitation/Server Side Request Forgery.md",
-            "mode": "preview"
+            "file": "imgs/SSRF1.png.png"
           }
         }
       }
@@ -68,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web-Exploitation/Server Side Request Forgery.md",
+                "file": "imgs/SSRF1.png.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +87,8 @@
   },
   "active": "6b1124c490c9ae0b",
   "lastOpenFiles": [
-    "Web-Exploitation/Server Side Request Forgery.md",
     "imgs/SSRF1.png.png",
+    "Web-Exploitation/Server Side Request Forgery.md",
     "imgs/SSRF1.md",
     "Web-Exploitation/XSS.md",
     "Privelege-Escalation/Linux.md",
