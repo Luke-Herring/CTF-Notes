@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Password-Cracking/Hydra.md",
-            "mode": "source"
+            "file": "Web-Exploitation/Sql-injection.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Password-Cracking/Hydra.md",
+                "file": "Web-Exploitation/Sql-injection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "6b1124c490c9ae0b",
   "lastOpenFiles": [
+    "Web-Exploitation/Sql-injection.md",
+    "Web-Exploitation/Server Side Request Forgery.md",
+    "Web-Exploitation/Phishing.md",
+    "Privelege-Escalation/Linux.md",
     "Password-Cracking/Hydra.md",
     "Password-Cracking/Cracking.md",
     "Password-Cracking/Post-Exploitation/Linux-Backdoor.md",
-    "Web-Exploitation/Phishing.md",
     "Web-Exploitation/File-inclusion.md",
     "imgs/lfi1.png",
-    "Web-Exploitation/Sql-injection.md",
-    "Web-Exploitation/Server Side Request Forgery.md",
-    "Web-Exploitation/XSS.md",
-    "imgs/SSRF1.png"
+    "Web-Exploitation/XSS.md"
   ]
 }
