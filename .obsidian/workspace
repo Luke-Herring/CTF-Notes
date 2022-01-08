@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bookmarks.md",
-            "mode": "source"
+            "file": "Web-Exploitation/Phishing.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bookmarks.md",
+                "file": "Web-Exploitation/Phishing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "6b1124c490c9ae0b",
   "lastOpenFiles": [
+    "Web-Exploitation/Phishing.md",
+    "Networking/Osi-model.md",
+    "Networking/IP.md",
     "Bookmarks.md",
     "Web-Exploitation/XSS.md",
     "Web-Exploitation/Sql-injection.md",
     "Web-Exploitation/Server Side Request Forgery.md",
-    "Web-Exploitation/Phishing.md",
     "Web-Exploitation/File-inclusion.md",
     "Privelege-Escalation/Linux.md",
-    "Post-Exploitation/Linux-Backdoor.md",
-    "Password-Cracking/Hydra.md",
-    "Password-Cracking/Cracking.md"
+    "Post-Exploitation/Linux-Backdoor.md"
   ]
 }
