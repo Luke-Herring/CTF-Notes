@@ -8,5 +8,8 @@ An IPv4 address consist of four bytes."10.10.3.192"
 - 127.0.0.0 - 127.255.255.255 represents your computer
 - 192.168.0.0 - 192.168.255.255 is reserved for private networks
 
+https://datatracker.ietf.org/doc/html/rfc5735
+
 				IPv6
 an IPv6 consists of 16-bit hexadecimal numbers separated by a colon.
+**2345:0425:2CA1:0000:0000:0567:5673:23b5**
