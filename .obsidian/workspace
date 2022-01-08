@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Enumeration/Nmap.md",
+            "file": "Bookmarks.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enumeration/Nmap.md",
+                "file": "Bookmarks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "6b1124c490c9ae0b",
   "lastOpenFiles": [
-    "Enumeration/Nmap.md",
-    "Password-Cracking/Hydra.md",
-    "Post-Exploitation/Linux-Backdoor.md",
-    "Web-Exploitation/File-inclusion.md",
-    "Web-Exploitation/Phishing.md",
-    "Web-Exploitation/Server Side Request Forgery.md",
-    "Web-Exploitation/Sql-injection.md",
+    "Bookmarks.md",
     "Web-Exploitation/XSS.md",
-    "imgs/nmap.png",
-    "Bookmarks.md"
+    "Web-Exploitation/Sql-injection.md",
+    "Web-Exploitation/Server Side Request Forgery.md",
+    "Web-Exploitation/Phishing.md",
+    "Web-Exploitation/File-inclusion.md",
+    "Privelege-Escalation/Linux.md",
+    "Post-Exploitation/Linux-Backdoor.md",
+    "Password-Cracking/Hydra.md",
+    "Password-Cracking/Cracking.md"
   ]
 }
