@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Enumeration/Osint.md",
+            "file": "Enumeration/Subdomain.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enumeration/Osint.md",
+                "file": "Enumeration/Subdomain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "6b1124c490c9ae0b",
   "lastOpenFiles": [
+    "Enumeration/Subdomain.md",
     "Enumeration/Osint.md",
     "Networking/IP.md",
     "Enumeration/Nmap.md",
@@ -96,7 +97,6 @@
     "Post-Exploitation/Linux-Backdoor.md",
     "Privelege-Escalation/Linux.md",
     "Web-Exploitation/Sql-injection.md",
-    "Web-Exploitation/Phishing.md",
-    "Web-Exploitation/File-inclusion.md"
+    "Web-Exploitation/Phishing.md"
   ]
 }
