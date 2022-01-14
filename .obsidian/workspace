@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web-Exploitation/Phishing.md",
-            "mode": "source"
+            "file": "Web-Exploitation/File-inclusion.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web-Exploitation/Phishing.md",
+                "file": "Web-Exploitation/File-inclusion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "6b1124c490c9ae0b",
   "lastOpenFiles": [
+    "Web-Exploitation/File-inclusion.md",
+    "Web-Exploitation/LFI.md",
     "Web-Exploitation/Phishing.md",
     "Networking/IP.md",
     "Networking/Osi-model.md",
@@ -95,8 +97,6 @@
     "Password-Cracking/Hydra.md",
     "Enumeration/Subdomain.md",
     "Enumeration/Osint.md",
-    "Enumeration/Nmap.md",
-    "Post-Exploitation/Linux-Backdoor.md",
-    "Privelege-Escalation/Linux.md"
+    "Enumeration/Nmap.md"
   ]
 }
