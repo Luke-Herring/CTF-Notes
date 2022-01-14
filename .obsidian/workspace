@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web-Exploitation/File-inclusion.md",
+            "file": "Privelege-Escalation/Linux.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web-Exploitation/File-inclusion.md",
+                "file": "Privelege-Escalation/Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "6b1124c490c9ae0b",
   "lastOpenFiles": [
+    "Privelege-Escalation/Linux.md",
     "Web-Exploitation/File-inclusion.md",
     "Web-Exploitation/LFI.md",
     "Web-Exploitation/Phishing.md",
@@ -96,7 +97,6 @@
     "Password-Cracking/Cracking.md",
     "Password-Cracking/Hydra.md",
     "Enumeration/Subdomain.md",
-    "Enumeration/Osint.md",
-    "Enumeration/Nmap.md"
+    "Enumeration/Osint.md"
   ]
 }
