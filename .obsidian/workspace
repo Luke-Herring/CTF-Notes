@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web-Exploitation/File-inclusion.md",
-            "mode": "source"
+            "file": "Web-Exploitation/XSS.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web-Exploitation/File-inclusion.md",
+                "file": "Web-Exploitation/XSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "6b1124c490c9ae0b",
   "lastOpenFiles": [
+    "Web-Exploitation/XSS.md",
     "Web-Exploitation/File-inclusion.md",
     "Web-Exploitation/Server Side Request Forgery.md",
     "Privelege-Escalation/Linux.md",
@@ -96,7 +97,6 @@
     "Networking/IP.md",
     "Networking/Osi-model.md",
     "Password-Cracking/Cracking.md",
-    "Password-Cracking/Hydra.md",
-    "Enumeration/Subdomain.md"
+    "Password-Cracking/Hydra.md"
   ]
 }
