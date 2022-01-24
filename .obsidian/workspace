@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Web-Exploitation/File-Upload.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -90,13 +90,13 @@
   "lastOpenFiles": [
     "Web-Exploitation/File-Upload.md",
     "imgs/Fileupload-1.png",
+    "imgs/file-upload4.png",
+    "imgs/file-upload3.png",
     "imgs/file-upload2.png",
     "Web-Exploitation/File-inclusion.md",
     "Web-Exploitation/Phishing.md",
     "Web-Exploitation/Server Side Request Forgery.md",
     "Web-Exploitation/Sql-injection.md",
-    "Web-Exploitation/XSS.md",
-    "Bookmarks.md",
-    "Enumeration/Nmap.md"
+    "Web-Exploitation/XSS.md"
   ]
 }
