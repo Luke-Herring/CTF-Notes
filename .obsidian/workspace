@@ -89,14 +89,14 @@
   "active": "6b1124c490c9ae0b",
   "lastOpenFiles": [
     "Web-Exploitation/XSS.md",
-    "Web-Exploitation/File-inclusion.md",
-    "Web-Exploitation/Server Side Request Forgery.md",
+    "Enumeration/Nmap.md",
+    "Enumeration/Osint.md",
+    "Password-Cracking/Hydra.md",
     "Privelege-Escalation/Linux.md",
-    "Web-Exploitation/LFI.md",
+    "Web-Exploitation/Sql-injection.md",
+    "Web-Exploitation/Server Side Request Forgery.md",
     "Web-Exploitation/Phishing.md",
-    "Networking/IP.md",
-    "Networking/Osi-model.md",
-    "Password-Cracking/Cracking.md",
-    "Password-Cracking/Hydra.md"
+    "Web-Exploitation/File-inclusion.md",
+    "Enumeration/Subdomain.md"
   ]
 }
