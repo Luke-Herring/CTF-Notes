@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Web-Exploitation/File-Upload.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -90,8 +90,8 @@
   "lastOpenFiles": [
     "Web-Exploitation/File-Upload.md",
     "imgs/Fileupload-1.png",
-    "Web-Exploitation/File-inclusion.md",
     "imgs/file-upload2.png",
+    "Web-Exploitation/File-inclusion.md",
     "Web-Exploitation/Phishing.md",
     "Web-Exploitation/Server Side Request Forgery.md",
     "Web-Exploitation/Sql-injection.md",
