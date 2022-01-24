@@ -89,14 +89,14 @@
   "active": "6b1124c490c9ae0b",
   "lastOpenFiles": [
     "Web-Exploitation/File-Upload.md",
-    "Web-Exploitation/Phishing.md",
+    "imgs/Fileupload-1.png",
     "Web-Exploitation/File-inclusion.md",
-    "Bookmarks.md",
-    "Web-Exploitation/XSS.md",
-    "Web-Exploitation/Sql-injection.md",
+    "imgs/file-upload2.png",
+    "Web-Exploitation/Phishing.md",
     "Web-Exploitation/Server Side Request Forgery.md",
-    "Enumeration/Nmap.md",
-    "Enumeration/Osint.md",
-    "Password-Cracking/Hydra.md"
+    "Web-Exploitation/Sql-injection.md",
+    "Web-Exploitation/XSS.md",
+    "Bookmarks.md",
+    "Enumeration/Nmap.md"
   ]
 }
