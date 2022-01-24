@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Web-Exploitation/File-Upload.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -89,8 +89,8 @@
   "active": "6b1124c490c9ae0b",
   "lastOpenFiles": [
     "Web-Exploitation/File-Upload.md",
-    "imgs/Fileupload-1.png",
     "imgs/file-upload4.png",
+    "imgs/Fileupload-1.png",
     "imgs/file-upload3.png",
     "imgs/file-upload2.png",
     "Web-Exploitation/File-inclusion.md",
