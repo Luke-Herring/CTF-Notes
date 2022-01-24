@@ -12,11 +12,16 @@ ls -l /etc/shadow					is /etc/shadow writable?
 - replace root password hash with the one you just generated
 - su root								switch to root
 
+<!-- -->
+
 			 	Writable /etc/passwd
 ls -l /etc/passwd					is /etc/passwd writeable?
 - openssl passwd password			      Generate password hash
 - place the new password hash between the first and second colon (:) of the root user's row (replacing the "x").
 - su root							      switch to root
+
+<!-- -->
+
 
 				Docker
 -- get image name using 'docker ps'

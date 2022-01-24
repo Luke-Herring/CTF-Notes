@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bookmarks.md",
-            "mode": "source"
+            "file": "Web-Exploitation/Server Side Request Forgery.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bookmarks.md",
+                "file": "Web-Exploitation/Server Side Request Forgery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "6b1124c490c9ae0b",
   "lastOpenFiles": [
+    "Web-Exploitation/Server Side Request Forgery.md",
+    "Web-Exploitation/Phishing.md",
+    "Web-Exploitation/File-Upload.md",
+    "Post-Exploitation/Linux-Backdoor.md",
+    "Privelege-Escalation/Linux.md",
     "Bookmarks.md",
     "Web-Exploitation/XSS.md",
-    "Web-Exploitation/Phishing.md",
+    "github.com/enaqx/awesome-pentest.md",
     "Web-Exploitation/File-inclusion.md",
-    "Web-Exploitation/File-Upload.md",
-    "Web-Exploitation/Server Side Request Forgery.md",
-    "Web-Exploitation/Sql-injection.md",
-    "imgs/file-upload2.png",
-    "imgs/file-upload4.png",
-    "imgs/Fileupload-1.png"
+    "Web-Exploitation/Sql-injection.md"
   ]
 }
