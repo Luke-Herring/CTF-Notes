@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web-Exploitation/Sql-injection.md",
+            "file": "Web-Exploitation/XSS.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web-Exploitation/Sql-injection.md",
+                "file": "Web-Exploitation/XSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,12 +88,12 @@
   },
   "active": "6b1124c490c9ae0b",
   "lastOpenFiles": [
+    "Web-Exploitation/XSS.md",
     "Web-Exploitation/Sql-injection.md",
     "Web-Exploitation/Phishing.md",
     "Web-Exploitation/File-Upload.md",
     "Web-Exploitation/Server Side Request Forgery.md",
     "Web-Exploitation/File-inclusion.md",
-    "Web-Exploitation/XSS.md",
     "Bookmarks.md",
     "Enumeration/Nmap.md",
     "Enumeration/Osint.md",
