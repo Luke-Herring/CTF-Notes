@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Bookmarks.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -90,10 +90,10 @@
   "lastOpenFiles": [
     "Bookmarks.md",
     "Web-Exploitation/XSS.md",
-    "Web-Exploitation/Server Side Request Forgery.md",
     "Web-Exploitation/Phishing.md",
-    "Web-Exploitation/File-Upload.md",
     "Web-Exploitation/File-inclusion.md",
+    "Web-Exploitation/File-Upload.md",
+    "Web-Exploitation/Server Side Request Forgery.md",
     "Web-Exploitation/Sql-injection.md",
     "imgs/file-upload2.png",
     "imgs/file-upload4.png",
