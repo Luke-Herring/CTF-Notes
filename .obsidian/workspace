@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web-Exploitation/XSS.md",
-            "mode": "source"
+            "file": "Bookmarks.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web-Exploitation/XSS.md",
+                "file": "Bookmarks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "6b1124c490c9ae0b",
   "lastOpenFiles": [
-    "Web-Exploitation/XSS.md",
-    "Web-Exploitation/Sql-injection.md",
-    "Web-Exploitation/File-Upload.md",
-    "Web-Exploitation/Phishing.md",
     "Bookmarks.md",
+    "Web-Exploitation/XSS.md",
+    "Web-Exploitation/Server Side Request Forgery.md",
+    "Web-Exploitation/Phishing.md",
+    "Web-Exploitation/File-Upload.md",
     "Web-Exploitation/File-inclusion.md",
+    "Web-Exploitation/Sql-injection.md",
     "imgs/file-upload2.png",
     "imgs/file-upload4.png",
-    "imgs/Fileupload-1.png",
-    "imgs/file-upload3.png"
+    "imgs/Fileupload-1.png"
   ]
 }
