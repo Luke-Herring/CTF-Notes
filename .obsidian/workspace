@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Web-Exploitation/Directory Traversal.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -89,8 +89,8 @@
   "active": "6b1124c490c9ae0b",
   "lastOpenFiles": [
     "Web-Exploitation/Directory Traversal.md",
-    "Web-Exploitation/File-Upload.md",
     "Web-Exploitation/File-inclusion.md",
+    "Web-Exploitation/File-Upload.md",
     "Web-Exploitation/Sql-injection.md",
     "imgs/file-upload2.png",
     "imgs/file-upload3.png",
