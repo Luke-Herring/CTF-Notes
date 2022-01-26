@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web-Exploitation/Sql-injection.md",
+            "file": "Bookmarks.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web-Exploitation/Sql-injection.md",
+                "file": "Bookmarks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "6b1124c490c9ae0b",
   "lastOpenFiles": [
-    "Web-Exploitation/Sql-injection.md",
+    "Bookmarks.md",
     "Web-Exploitation/XSS.md",
+    "Web-Exploitation/Sql-injection.md",
     "Web-Exploitation/Server Side Request Forgery.md",
     "Enumeration/Osint.md",
     "Enumeration/Nmap.md",
     "Enumeration/Subdomain.md",
     "Networking/IP.md",
     "Networking/Osi-model.md",
-    "Privelege-Escalation/Linux.md",
-    "Post-Exploitation/Password-Cracking/Hydra.md"
+    "Privelege-Escalation/Linux.md"
   ]
 }
