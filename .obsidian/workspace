@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web-Exploitation/Authentication.md",
+            "file": "Web-Exploitation/File-Upload.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web-Exploitation/Authentication.md",
+                "file": "Web-Exploitation/File-Upload.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,12 +88,12 @@
   },
   "active": "6b1124c490c9ae0b",
   "lastOpenFiles": [
+    "Web-Exploitation/File-Upload.md",
     "Web-Exploitation/Authentication.md",
     "Bookmarks.md",
     "Web-Exploitation/Directory Traversal.md",
     "Web-Exploitation/Server Side Request Forgery.md",
     "Web-Exploitation/Sql-injection.md",
-    "Web-Exploitation/File-Upload.md",
     "Web-Exploitation/Phishing.md",
     "Web-Exploitation/XSS.md",
     "Password-Cracking/Cracking.md",
