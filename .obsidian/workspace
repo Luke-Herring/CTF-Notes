@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web-Exploitation/File-Upload.md",
-            "mode": "preview"
+            "file": "Web-Exploitation/Authentication.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web-Exploitation/File-Upload.md",
+                "file": "Web-Exploitation/Authentication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,14 +88,14 @@
   },
   "active": "6b1124c490c9ae0b",
   "lastOpenFiles": [
-    "Web-Exploitation/File-Upload.md",
     "Web-Exploitation/Authentication.md",
-    "Bookmarks.md",
-    "Web-Exploitation/Directory Traversal.md",
-    "Web-Exploitation/Server Side Request Forgery.md",
-    "Web-Exploitation/Sql-injection.md",
     "Web-Exploitation/Phishing.md",
+    "Web-Exploitation/File-Upload.md",
+    "Web-Exploitation/Directory Traversal.md",
     "Web-Exploitation/XSS.md",
+    "Web-Exploitation/Sql-injection.md",
+    "Web-Exploitation/Server Side Request Forgery.md",
+    "Bookmarks.md",
     "Password-Cracking/Cracking.md",
     "Password-Cracking/Hydra.md"
   ]
