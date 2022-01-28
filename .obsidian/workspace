@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web-Exploitation/Directory Traversal.md",
+            "file": "Web-Exploitation/Authentication.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web-Exploitation/Directory Traversal.md",
+                "file": "Web-Exploitation/Authentication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "6b1124c490c9ae0b",
   "lastOpenFiles": [
-    "Web-Exploitation/Directory Traversal.md",
-    "Web-Exploitation/Command Injection.md",
     "Web-Exploitation/Authentication.md",
+    "Web-Exploitation/Command Injection.md",
+    "Web-Exploitation/Directory Traversal.md",
     "Web-Exploitation/File-Upload.md",
+    "Web-Exploitation/Server Side Request Forgery.md",
     "Bookmarks.md",
     "Web-Exploitation/XSS.md",
     "Web-Exploitation/Sql-injection.md",
     "imgs/file-upload7.png",
-    "imgs/file-upload6.png",
-    "Web-Exploitation/Phishing.md"
+    "imgs/file-upload6.png"
   ]
 }
