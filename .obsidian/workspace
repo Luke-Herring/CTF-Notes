@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Web-Exploitation/XXE-Injection.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -89,12 +89,12 @@
   "active": "3e75eff081b12e28",
   "lastOpenFiles": [
     "Web-Exploitation/XXE-Injection.md",
-    "Web-Exploitation/XSS.md",
-    "Web-Exploitation/Sql-injection.md",
-    "imgs/XXE6.png",
-    "Web-Exploitation/File-Upload.md",
     "Web-Exploitation/Phishing.md",
     "Web-Exploitation/Server Side Request Forgery.md",
+    "Web-Exploitation/Sql-injection.md",
+    "Web-Exploitation/XSS.md",
+    "imgs/XXE6.png",
+    "Web-Exploitation/File-Upload.md",
     "Enumeration/Subdomain.md",
     "Privelege-Escalation/Linux.md",
     "Web-Exploitation/Directory Traversal.md"
