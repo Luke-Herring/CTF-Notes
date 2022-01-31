@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web-Exploitation/Command Injection.md",
+            "file": "Enumeration/Nmap.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web-Exploitation/Command Injection.md",
+                "file": "Enumeration/Nmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "3e75eff081b12e28",
   "lastOpenFiles": [
+    "Enumeration/Nmap.md",
     "Web-Exploitation/Command Injection.md",
     "Web-Exploitation/XXE.md",
     "Web-Exploitation/Server Side Request Forgery.md",
@@ -96,7 +97,6 @@
     "Web-Exploitation/File-Upload.md",
     "Web-Exploitation/XSS.md",
     "Web-Exploitation/Phishing.md",
-    "imgs/XXE6.png",
-    "Enumeration/Subdomain.md"
+    "imgs/XXE6.png"
   ]
 }
