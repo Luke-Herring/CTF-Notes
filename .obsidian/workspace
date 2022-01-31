@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web-Exploitation/Directory Traversal.md",
+            "file": "Web-Exploitation/Command Injection.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web-Exploitation/Directory Traversal.md",
+                "file": "Web-Exploitation/Command Injection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,14 +88,14 @@
   },
   "active": "3e75eff081b12e28",
   "lastOpenFiles": [
-    "Web-Exploitation/Directory Traversal.md",
-    "Web-Exploitation/Sql-injection.md",
-    "Web-Exploitation/File-Upload.md",
     "Web-Exploitation/Command Injection.md",
     "Web-Exploitation/XXE.md",
+    "Web-Exploitation/Server Side Request Forgery.md",
+    "Web-Exploitation/Sql-injection.md",
+    "Web-Exploitation/Directory Traversal.md",
+    "Web-Exploitation/File-Upload.md",
     "Web-Exploitation/XSS.md",
     "Web-Exploitation/Phishing.md",
-    "Web-Exploitation/Server Side Request Forgery.md",
     "imgs/XXE6.png",
     "Enumeration/Subdomain.md"
   ]
