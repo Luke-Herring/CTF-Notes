@@ -7,8 +7,11 @@
         "id": "ffa700a0515f6d50",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Web-Exploitation/XXE.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Web-Exploitation/XXE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +88,15 @@
   },
   "active": "ffa700a0515f6d50",
   "lastOpenFiles": [
+    "Web-Exploitation/XXE.md",
+    "Web-Exploitation/Sql-injection.md",
     "Web-Exploitation/SSRF.md",
     "Web-Exploitation/XSS.md",
-    "Web-Exploitation/XXE.md",
     "Web-Exploitation/Authentication.md",
     "Bookmarks.md",
     "Enumeration/Common-ports.md",
     "Enumeration/Nmap.md",
     "Enumeration/Osint.md",
-    "Enumeration/Subdomain.md",
-    "Web-Exploitation/Sql-injection.md"
+    "Enumeration/Subdomain.md"
   ]
 }
