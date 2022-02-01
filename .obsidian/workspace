@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3e75eff081b12e28",
+        "id": "ffa700a0515f6d50",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Web-Exploitation/SSRF.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web-Exploitation/SSRF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +82,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3e75eff081b12e28",
+  "active": "ffa700a0515f6d50",
   "lastOpenFiles": [
     "Web-Exploitation/SSRF.md",
     "Web-Exploitation/XSS.md",
