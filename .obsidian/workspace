@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Enumeration/Common-ports.md",
+            "file": "Web-Exploitation/SSRF.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enumeration/Common-ports.md",
+                "file": "Web-Exploitation/SSRF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "3e75eff081b12e28",
   "lastOpenFiles": [
+    "Web-Exploitation/SSRF.md",
     "Enumeration/Common-ports.md",
     "Enumeration/Nmap.md",
     "Enumeration/Osint.md",
@@ -95,7 +96,6 @@
     "Web-Exploitation/Sql-injection.md",
     "Web-Exploitation/Command Injection.md",
     "Web-Exploitation/XXE.md",
-    "Web-Exploitation/Server Side Request Forgery.md",
     "Web-Exploitation/Directory Traversal.md",
     "Web-Exploitation/File-Upload.md"
   ]
