@@ -50,4 +50,5 @@
                       	 Misc
 - [Awesome Pentesting](https://github.com/enaqx/awesome-pentest)
 - [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
+- [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
 - [OffSecNewbie](https://guide.offsecnewbie.com/)
