@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Enumeration/Nmap.md",
-            "mode": "preview"
+            "file": "Enumeration/Common-ports.md",
+            "mode": "source"
           }
         }
       }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259
+    "width": 190
   },
   "right": {
     "id": "5c1e1c4fa48dbf95",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enumeration/Nmap.md",
+                "file": "Enumeration/Common-ports.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "3e75eff081b12e28",
   "lastOpenFiles": [
+    "Enumeration/Common-ports.md",
     "Enumeration/Nmap.md",
+    "Enumeration/Osint.md",
+    "Enumeration/Subdomain.md",
+    "Web-Exploitation/Sql-injection.md",
     "Web-Exploitation/Command Injection.md",
     "Web-Exploitation/XXE.md",
     "Web-Exploitation/Server Side Request Forgery.md",
-    "Web-Exploitation/Sql-injection.md",
     "Web-Exploitation/Directory Traversal.md",
-    "Web-Exploitation/File-Upload.md",
-    "Web-Exploitation/XSS.md",
-    "Web-Exploitation/Phishing.md",
-    "imgs/XXE6.png"
+    "Web-Exploitation/File-Upload.md"
   ]
 }

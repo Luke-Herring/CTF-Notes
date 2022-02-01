@@ -3,9 +3,7 @@
 - Facebook
 - Twitter
 - Reddit
-- LinkdIn
-
-LinkdIn forces you use your real name
+- LinkdIn(LinkdIn forces you use your real name)
 
 				Osint on company's
 			
