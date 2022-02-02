@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web-Exploitation/SSRF.md",
+            "file": "Web-Exploitation/XSS.md",
             "mode": "preview"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 190
+    "width": 223
   },
   "right": {
     "id": "5c1e1c4fa48dbf95",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web-Exploitation/SSRF.md",
+                "file": "Web-Exploitation/XSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "1b2c3fc85a14153f",
   "lastOpenFiles": [
-    "Web-Exploitation/SSRF.md",
-    "imgs/SSRF1.png",
-    "Web-Exploitation/XXE.md",
-    "Web-Exploitation/Sql-injection.md",
     "Web-Exploitation/XSS.md",
-    "Web-Exploitation/Authentication.md",
-    "Bookmarks.md",
-    "Enumeration/Common-ports.md",
-    "Enumeration/Nmap.md",
-    "Enumeration/Osint.md"
+    "Web-Exploitation/SSRF.md",
+    "Web-Exploitation/Sql-injection.md",
+    "Web-Exploitation/Directory Traversal.md",
+    "Web-Exploitation/Phishing.md",
+    "Web-Exploitation/File-Upload.md",
+    "imgs/SSRF2.png",
+    "imgs/file-upload7.png",
+    "imgs/SSRF1.png",
+    "Web-Exploitation/XXE.md"
   ]
 }
