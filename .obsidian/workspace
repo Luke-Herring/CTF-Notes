@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web-Exploitation/XXE.md",
+            "file": "Web-Exploitation/SSRF.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web-Exploitation/XXE.md",
+                "file": "Web-Exploitation/SSRF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,9 +88,9 @@
   },
   "active": "ffa700a0515f6d50",
   "lastOpenFiles": [
+    "Web-Exploitation/SSRF.md",
     "Web-Exploitation/XXE.md",
     "Web-Exploitation/Sql-injection.md",
-    "Web-Exploitation/SSRF.md",
     "Web-Exploitation/XSS.md",
     "Web-Exploitation/Authentication.md",
     "Bookmarks.md",
