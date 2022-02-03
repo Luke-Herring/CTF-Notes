@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Password-Cracking/Hydra.md",
-            "mode": "source"
+            "file": "Web-Exploitation/XXE.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Password-Cracking/Hydra.md",
+                "file": "Web-Exploitation/XXE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "1b2c3fc85a14153f",
   "lastOpenFiles": [
+    "Web-Exploitation/XXE.md",
+    "Bookmarks.md",
     "Password-Cracking/Hydra.md",
     "Enumeration/Nmap.md",
     "Enumeration/Common-ports.md",
-    "Web-Exploitation/XXE.md",
     "Web-Exploitation/Command Injection.md",
     "Web-Exploitation/XSS.md",
     "Web-Exploitation/SSRF.md",
     "Web-Exploitation/Sql-injection.md",
-    "Web-Exploitation/Directory Traversal.md",
-    "Web-Exploitation/Phishing.md"
+    "Web-Exploitation/Directory Traversal.md"
   ]
 }
