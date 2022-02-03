@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web-Exploitation/XXE.md",
-            "mode": "preview"
+            "file": "Web-Exploitation/Sql-injection.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web-Exploitation/XXE.md",
+                "file": "Web-Exploitation/Sql-injection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "1b2c3fc85a14153f",
   "lastOpenFiles": [
+    "Web-Exploitation/Sql-injection.md",
     "Web-Exploitation/XXE.md",
     "Bookmarks.md",
     "Password-Cracking/Hydra.md",
@@ -96,7 +97,6 @@
     "Web-Exploitation/Command Injection.md",
     "Web-Exploitation/XSS.md",
     "Web-Exploitation/SSRF.md",
-    "Web-Exploitation/Sql-injection.md",
     "Web-Exploitation/Directory Traversal.md"
   ]
 }
