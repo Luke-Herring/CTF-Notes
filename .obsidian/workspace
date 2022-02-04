@@ -89,14 +89,14 @@
   "active": "1b2c3fc85a14153f",
   "lastOpenFiles": [
     "Web-Exploitation/File-Upload.md",
-    "Web-Exploitation/XXE.md",
+    "Web-Exploitation/Directory Traversal.md",
+    "Web-Exploitation/Authentication.md",
     "Web-Exploitation/Command Injection.md",
+    "Web-Exploitation/XXE.md",
     "Web-Exploitation/XSS.md",
     "Web-Exploitation/SSRF.md",
     "Web-Exploitation/SQL-injection.md",
     "Bookmarks.md",
-    "Password-Cracking/Hydra.md",
-    "Enumeration/Nmap.md",
-    "Enumeration/Common-ports.md"
+    "Password-Cracking/Hydra.md"
   ]
 }
