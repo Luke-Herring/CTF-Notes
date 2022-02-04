@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web-Exploitation/XXE.md",
+            "file": "Web-Exploitation/File-Upload.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web-Exploitation/XXE.md",
+                "file": "Web-Exploitation/File-Upload.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "1b2c3fc85a14153f",
   "lastOpenFiles": [
+    "Web-Exploitation/File-Upload.md",
     "Web-Exploitation/XXE.md",
     "Web-Exploitation/Command Injection.md",
     "Web-Exploitation/XSS.md",
@@ -96,7 +97,6 @@
     "Bookmarks.md",
     "Password-Cracking/Hydra.md",
     "Enumeration/Nmap.md",
-    "Enumeration/Common-ports.md",
-    "Web-Exploitation/Directory Traversal.md"
+    "Enumeration/Common-ports.md"
   ]
 }
