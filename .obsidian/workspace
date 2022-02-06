@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Privelege-Escalation/Windows.md",
+            "file": "Web-Exploitation/SQL-injection.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Privelege-Escalation/Windows.md",
+                "file": "Web-Exploitation/SQL-injection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "1b2c3fc85a14153f",
   "lastOpenFiles": [
+    "Web-Exploitation/SQL-injection.md",
+    "Web-Exploitation/File-Upload.md",
+    "Web-Exploitation/Directory Traversal.md",
+    "Enumeration/Osint.md",
+    "Web-Exploitation/XSS.md",
     "Privelege-Escalation/Windows.md",
     "Privelege-Escalation/Linux.md",
     "Web-Exploitation/Authentication.md",
     "Bookmarks.md",
-    "Web-Exploitation/XSS.md",
-    "Web-Exploitation/SSRF.md",
-    "Web-Exploitation/File-Upload.md",
-    "Web-Exploitation/Directory Traversal.md",
-    "Web-Exploitation/Command Injection.md",
-    "Web-Exploitation/XXE.md"
+    "Web-Exploitation/SSRF.md"
   ]
 }
