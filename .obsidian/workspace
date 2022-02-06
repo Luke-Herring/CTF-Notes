@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web-Exploitation/XSS.md",
-            "mode": "source"
+            "file": "Bookmarks.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web-Exploitation/XSS.md",
+                "file": "Bookmarks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "1b2c3fc85a14153f",
   "lastOpenFiles": [
+    "Bookmarks.md",
     "Web-Exploitation/XSS.md",
     "Web-Exploitation/SSRF.md",
     "Web-Exploitation/File-Upload.md",
@@ -96,7 +97,6 @@
     "Web-Exploitation/Command Injection.md",
     "Web-Exploitation/XXE.md",
     "Web-Exploitation/SQL-injection.md",
-    "Bookmarks.md",
     "Password-Cracking/Hydra.md"
   ]
 }
