@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bookmarks.md",
-            "mode": "preview"
+            "file": "Privelege-Escalation/Windows.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bookmarks.md",
+                "file": "Privelege-Escalation/Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "1b2c3fc85a14153f",
   "lastOpenFiles": [
+    "Privelege-Escalation/Windows.md",
+    "Privelege-Escalation/Linux.md",
+    "Web-Exploitation/Authentication.md",
     "Bookmarks.md",
     "Web-Exploitation/XSS.md",
     "Web-Exploitation/SSRF.md",
     "Web-Exploitation/File-Upload.md",
     "Web-Exploitation/Directory Traversal.md",
-    "Web-Exploitation/Authentication.md",
     "Web-Exploitation/Command Injection.md",
-    "Web-Exploitation/XXE.md",
-    "Web-Exploitation/SQL-injection.md",
-    "Password-Cracking/Hydra.md"
+    "Web-Exploitation/XXE.md"
   ]
 }

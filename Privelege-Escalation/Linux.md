@@ -1,4 +1,4 @@
-				Sudo 
+					Sudo 
 Can you su without a password?		       su root
 are you already a sudo user?			   sudo su -
 what can we run with sudo?			  sudo -l
