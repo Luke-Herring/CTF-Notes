@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bookmarks.md",
-            "mode": "preview"
+            "file": "Privelege-Escalation/Linux.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bookmarks.md",
+                "file": "Privelege-Escalation/Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "1b2c3fc85a14153f",
   "lastOpenFiles": [
+    "Privelege-Escalation/Linux.md",
     "Bookmarks.md",
     "Web-Exploitation/XXE.md",
     "Web-Exploitation/XSS.md",
@@ -96,7 +97,6 @@
     "Web-Exploitation/File-Upload.md",
     "Web-Exploitation/Directory Traversal.md",
     "Enumeration/Osint.md",
-    "Privelege-Escalation/Windows.md",
-    "Privelege-Escalation/Linux.md"
+    "Privelege-Escalation/Windows.md"
   ]
 }

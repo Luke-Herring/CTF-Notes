@@ -27,6 +27,10 @@ ls -l /etc/passwd					is /etc/passwd writeable?
 -- get image name using 'docker ps'
 -- docker run -v /:/mnt --rm -it $imagenamehere chroot /mnt sh
 
+				Capabilities
+## Identifying Capabilities
+`getcap -r / 2>/dev/null`
+
 				LinEnum
 -- wget https://raw.githubusercontent.com/rebootuser/LinEnum/master/LinEnum.sh
 -- ./LinEnum.sh -t -r report.txt
