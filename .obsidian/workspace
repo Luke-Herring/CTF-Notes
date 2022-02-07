@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web-Exploitation/Command Injection.md",
+            "file": "Privelege-Escalation/Linux.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web-Exploitation/Command Injection.md",
+                "file": "Privelege-Escalation/Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,12 +88,12 @@
   },
   "active": "1b2c3fc85a14153f",
   "lastOpenFiles": [
+    "Privelege-Escalation/Linux.md",
     "Web-Exploitation/Command Injection.md",
     "Web-Exploitation/File-Upload.md",
     "Web-Exploitation/Directory Traversal.md",
     "Password-Cracking/Hydra.md",
     "Password-Cracking/Cracking.md",
-    "Privelege-Escalation/Linux.md",
     "Bookmarks.md",
     "Web-Exploitation/XXE.md",
     "Web-Exploitation/XSS.md",
