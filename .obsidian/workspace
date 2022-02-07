@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Password-Cracking/Hydra.md",
+            "file": "Web-Exploitation/Directory Traversal.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Password-Cracking/Hydra.md",
+                "file": "Web-Exploitation/Directory Traversal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "1b2c3fc85a14153f",
   "lastOpenFiles": [
+    "Web-Exploitation/Directory Traversal.md",
+    "Web-Exploitation/Command Injection.md",
     "Password-Cracking/Hydra.md",
     "Password-Cracking/Cracking.md",
     "Web-Exploitation/File-Upload.md",
@@ -95,8 +97,6 @@
     "Bookmarks.md",
     "Web-Exploitation/XXE.md",
     "Web-Exploitation/XSS.md",
-    "Web-Exploitation/Command Injection.md",
-    "Web-Exploitation/SQL-injection.md",
-    "Web-Exploitation/Directory Traversal.md"
+    "Web-Exploitation/SQL-injection.md"
   ]
 }
