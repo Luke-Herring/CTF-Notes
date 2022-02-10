@@ -11,5 +11,7 @@ https://www.crunchbase.com/
 https://sam.gov/content/home
 https://www.gsaelibrary.gsa.gov/ElibMain/home.do
 
-				Misc
--- Whois for Domains
+
+
+				WebOSINT
+	[Whois Registration](https://www.whois.com)
