@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Enumeration/Osint.md",
-            "mode": "source"
+            "file": "Web-Exploitation/SQL-injection.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enumeration/Osint.md",
+                "file": "Web-Exploitation/SQL-injection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "1b2c3fc85a14153f",
   "lastOpenFiles": [
-    "Enumeration/Osint.md",
+    "Web-Exploitation/SQL-injection.md",
+    "Web-Exploitation/Authentication.md",
+    "Web-Exploitation/Command Injection.md",
     "Bookmarks.md",
     "Web-Exploitation/XXE.md",
+    "Enumeration/Osint.md",
     "Password-Cracking/Hydra.md",
     "Password-Cracking/Cracking.md",
-    "Web-Exploitation/Command Injection.md",
     "Web-Exploitation/File-Upload.md",
-    "Web-Exploitation/SQL-injection.md",
-    "Web-Exploitation/SSRF.md",
-    "Privelege-Escalation/Linux.md"
+    "Web-Exploitation/SSRF.md"
   ]
 }
