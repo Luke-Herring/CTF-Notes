@@ -30,3 +30,9 @@ https://www.gsaelibrary.gsa.gov/ElibMain/home.do
 
 ### DNS Bruteforce
 using dnsrecon `dnsrecon -t brt -d website.com`
+
+### Virtual Hosts
+
+```
+ffuf -w /usr/share/wordlists/SecLists/Discovery/DNS/namelist.txt -H "Host:FUZZ.website.com" -u http://$IP
+```
