@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web-Exploitation/SQL-injection.md",
+            "file": "Web-Exploitation/SSRF.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web-Exploitation/SQL-injection.md",
+                "file": "Web-Exploitation/SSRF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "1b2c3fc85a14153f",
   "lastOpenFiles": [
+    "Web-Exploitation/SSRF.md",
     "Web-Exploitation/SQL-injection.md",
     "Web-Exploitation/Phishing.md",
     "Enumeration/Osint.md",
@@ -96,7 +97,6 @@
     "Bookmarks.md",
     "Web-Exploitation/XXE.md",
     "Password-Cracking/Hydra.md",
-    "Password-Cracking/Cracking.md",
-    "Web-Exploitation/File-Upload.md"
+    "Password-Cracking/Cracking.md"
   ]
 }
