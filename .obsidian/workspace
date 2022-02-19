@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web-Exploitation/XXE.md",
+            "file": "Web-Exploitation/SQL-injection.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web-Exploitation/XXE.md",
+                "file": "Web-Exploitation/SQL-injection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,10 +88,10 @@
   },
   "active": "1b2c3fc85a14153f",
   "lastOpenFiles": [
+    "Web-Exploitation/SQL-injection.md",
+    "Web-Exploitation/SSRF.md",
     "Web-Exploitation/XXE.md",
     "Web-Exploitation/XSS.md",
-    "Web-Exploitation/SSRF.md",
-    "Web-Exploitation/SQL-injection.md",
     "Web-Exploitation/Phishing.md",
     "Web-Exploitation/File-Upload.md",
     "Web-Exploitation/Authentication.md",
