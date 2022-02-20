@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web-Exploitation/Phishing.md",
+            "file": "Enumeration/Osint.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web-Exploitation/Phishing.md",
+                "file": "Enumeration/Osint.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "1b2c3fc85a14153f",
   "lastOpenFiles": [
+    "Enumeration/Osint.md",
+    "Enumeration/Nmap.md",
     "Web-Exploitation/Phishing.md",
     "Web-Exploitation/SQL-injection.md",
     "Web-Exploitation/SSRF.md",
@@ -95,8 +97,6 @@
     "Web-Exploitation/XSS.md",
     "Web-Exploitation/File-Upload.md",
     "Web-Exploitation/Authentication.md",
-    "Web-Exploitation/Directory Traversal.md",
-    "Web-Exploitation/Command Injection.md",
-    "Enumeration/Osint.md"
+    "Web-Exploitation/Directory Traversal.md"
   ]
 }

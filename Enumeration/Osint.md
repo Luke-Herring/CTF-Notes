@@ -13,13 +13,15 @@ https://www.crunchbase.com/
 https://sam.gov/content/home
 https://www.gsaelibrary.gsa.gov/ElibMain/home.do
 
-
-
 				WebOSINT
 
 [Whois Registration](https://www.whois.com)
 [archive.org](https://archive.org/)
 
+				Geolocating images
+- Always use `Yandex` for reverse image search
+
+			
 				Subdomain
 
 ### SSL/TLS Certificates
