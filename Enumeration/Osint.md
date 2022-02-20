@@ -19,9 +19,15 @@ https://www.gsaelibrary.gsa.gov/ElibMain/home.do
 [archive.org](https://archive.org/)
 
 				Geolocating images
-- Always use `Yandex` for reverse image search
+-- Always use `Yandex` for reverse image search
 
-			
+- Language
+- what side are cars on?
+- license plates
+- clothes
+
+<!-- -->
+
 				Subdomain
 
 ### SSL/TLS Certificates
