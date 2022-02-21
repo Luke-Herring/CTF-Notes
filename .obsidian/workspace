@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Enumeration/Nmap.md",
-            "mode": "source"
+            "file": "Web-Exploitation/IDOR.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enumeration/Nmap.md",
+                "file": "Web-Exploitation/IDOR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "1b2c3fc85a14153f",
   "lastOpenFiles": [
+    "Web-Exploitation/IDOR.md",
+    "Web-Exploitation/SSRF.md",
+    "Web-Exploitation/XSS.md",
+    "Web-Exploitation/SQL-injection.md",
+    "Web-Exploitation/Phishing.md",
+    "Privelege-Escalation/Linux.md",
     "Enumeration/Nmap.md",
     "Enumeration/Osint.md",
     "Password-Cracking/Cracking.md",
-    "Password-Cracking/Hydra.md",
-    "Web-Exploitation/Phishing.md",
-    "Web-Exploitation/SQL-injection.md",
-    "Web-Exploitation/SSRF.md",
-    "Web-Exploitation/XXE.md",
-    "Web-Exploitation/XSS.md",
-    "Web-Exploitation/File-Upload.md"
+    "Password-Cracking/Hydra.md"
   ]
 }
