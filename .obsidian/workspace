@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Enumeration/Osint.md",
+            "file": "Password-Cracking/Cracking.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enumeration/Osint.md",
+                "file": "Password-Cracking/Cracking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "1b2c3fc85a14153f",
   "lastOpenFiles": [
+    "Password-Cracking/Cracking.md",
+    "Password-Cracking/Hydra.md",
     "Enumeration/Osint.md",
     "Enumeration/Nmap.md",
     "Web-Exploitation/Phishing.md",
@@ -95,8 +97,6 @@
     "Web-Exploitation/SSRF.md",
     "Web-Exploitation/XXE.md",
     "Web-Exploitation/XSS.md",
-    "Web-Exploitation/File-Upload.md",
-    "Web-Exploitation/Authentication.md",
-    "Web-Exploitation/Directory Traversal.md"
+    "Web-Exploitation/File-Upload.md"
   ]
 }
