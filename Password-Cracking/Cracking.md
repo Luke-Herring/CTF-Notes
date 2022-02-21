@@ -12,7 +12,9 @@ cewl -w list.txt -d 5 -m 5 www.Ip.com 			Make a wordlist by crawling the website
 - Convert private key to hash
 `python3 ssh2john.py privatekey > privatekey.hash`
 - Use john to crack hash
-`john privatekey.hash`
+`john privatekey.hash -w=/wordlist`
+
+<!-- -->
 
 				Default passwords
 www.cirt.net/passwords
