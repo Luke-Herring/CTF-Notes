@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web-Exploitation/Authentication.md",
+            "file": "Post-Exploitation/Linux-Backdoor.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web-Exploitation/Authentication.md",
+                "file": "Post-Exploitation/Linux-Backdoor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "1b2c3fc85a14153f",
   "lastOpenFiles": [
+    "Post-Exploitation/Linux-Backdoor.md",
     "Web-Exploitation/Authentication.md",
     "Web-Exploitation/Command Injection.md",
     "Web-Exploitation/XSS.md",
@@ -96,7 +97,6 @@
     "Web-Exploitation/IDOR.md",
     "Web-Exploitation/Phishing.md",
     "Privelege-Escalation/Linux.md",
-    "Enumeration/Nmap.md",
-    "Enumeration/Osint.md"
+    "Enumeration/Nmap.md"
   ]
 }
