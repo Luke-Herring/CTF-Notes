@@ -39,9 +39,10 @@ https://www.gsaelibrary.gsa.gov/ElibMain/home.do
 ### DNS Bruteforce
 using dnsrecon `dnsrecon -t brt -d website.com`
 
-### sublist3r
-`python3 /opt/sublist3r.py -d DOMAIN`
-
+### Wfuzz
+```
+wfuzz -c -w /usr/share/wordlists/SecLists/Discovery/DNS/subdomains-top1million-5000.txt -u Domain  -H "Host: FUZZ.Domain.com"
+```
 ### Virtual Hosts
 
 ```
