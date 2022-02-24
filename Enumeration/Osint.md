@@ -39,6 +39,9 @@ https://www.gsaelibrary.gsa.gov/ElibMain/home.do
 ### DNS Bruteforce
 using dnsrecon `dnsrecon -t brt -d website.com`
 
+### sublist3r
+`python3 /opt/sublist3r.py -d DOMAIN`
+
 ### Virtual Hosts
 
 ```
