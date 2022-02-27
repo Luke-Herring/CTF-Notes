@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web-Exploitation/Directory Traversal.md",
+            "file": "Enumeration/Gobuster.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web-Exploitation/Directory Traversal.md",
+                "file": "Enumeration/Gobuster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,11 +88,11 @@
   },
   "active": "1b2c3fc85a14153f",
   "lastOpenFiles": [
-    "Web-Exploitation/Directory Traversal.md",
-    "Privelege-Escalation/Linux.md",
-    "Enumeration/Osint.md",
     "Enumeration/Gobuster.md",
     "Enumeration/Nmap.md",
+    "Enumeration/Osint.md",
+    "Web-Exploitation/Directory Traversal.md",
+    "Privelege-Escalation/Linux.md",
     "Post-Exploitation/Linux-Backdoor.md",
     "Web-Exploitation/Authentication.md",
     "Web-Exploitation/Command Injection.md",
