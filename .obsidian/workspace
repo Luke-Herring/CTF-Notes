@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Misc/Checksums.md",
-            "mode": "source"
+            "file": "Malware/Online-Sandboxing.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Checksums.md",
+                "file": "Malware/Online-Sandboxing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "1b2c3fc85a14153f",
   "lastOpenFiles": [
-    "Misc/Checksums.md",
+    "Malware/Online-Sandboxing.md",
+    "Bookmarks.md",
+    "Web-Exploitation/Authentication.md",
     "Web-Exploitation/File-Upload.md",
     "Password-Cracking/Hydra.md",
     "Password-Cracking/Cracking.md",
     "Enumeration/Gobuster.md",
     "Enumeration/Nmap.md",
     "Enumeration/Osint.md",
-    "Web-Exploitation/Directory Traversal.md",
-    "Privelege-Escalation/Linux.md",
-    "Post-Exploitation/Linux-Backdoor.md"
+    "Web-Exploitation/Directory Traversal.md"
   ]
 }
