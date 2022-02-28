@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Enumeration/Gobuster.md",
+            "file": "Password-Cracking/Hydra.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enumeration/Gobuster.md",
+                "file": "Password-Cracking/Hydra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "1b2c3fc85a14153f",
   "lastOpenFiles": [
+    "Password-Cracking/Hydra.md",
+    "Password-Cracking/Cracking.md",
     "Enumeration/Gobuster.md",
     "Enumeration/Nmap.md",
     "Enumeration/Osint.md",
@@ -95,8 +97,6 @@
     "Privelege-Escalation/Linux.md",
     "Post-Exploitation/Linux-Backdoor.md",
     "Web-Exploitation/Authentication.md",
-    "Web-Exploitation/Command Injection.md",
-    "Web-Exploitation/XSS.md",
-    "Web-Exploitation/SSRF.md"
+    "Web-Exploitation/Command Injection.md"
   ]
 }
