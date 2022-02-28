@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web-Exploitation/File-Upload.md",
-            "mode": "preview"
+            "file": "Misc/Checksums.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web-Exploitation/File-Upload.md",
+                "file": "Misc/Checksums.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "1b2c3fc85a14153f",
   "lastOpenFiles": [
+    "Misc/Checksums.md",
     "Web-Exploitation/File-Upload.md",
     "Password-Cracking/Hydra.md",
     "Password-Cracking/Cracking.md",
@@ -96,7 +97,6 @@
     "Enumeration/Osint.md",
     "Web-Exploitation/Directory Traversal.md",
     "Privelege-Escalation/Linux.md",
-    "Post-Exploitation/Linux-Backdoor.md",
-    "Web-Exploitation/Authentication.md"
+    "Post-Exploitation/Linux-Backdoor.md"
   ]
 }
