@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web-Exploitation/File-Upload.md",
-            "mode": "preview"
+            "file": "Privelege-Escalation/Linux.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web-Exploitation/File-Upload.md",
+                "file": "Privelege-Escalation/Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "1b2c3fc85a14153f",
   "lastOpenFiles": [
+    "Privelege-Escalation/Linux.md",
+    "Privelege-Escalation/Windows.md",
     "Web-Exploitation/File-Upload.md",
     "Web-Exploitation/Directory Traversal.md",
     "Web-Exploitation/Authentication.md",
@@ -95,8 +97,6 @@
     "Bookmarks.md",
     "Password-Cracking/Hydra.md",
     "Password-Cracking/Cracking.md",
-    "Enumeration/Gobuster.md",
-    "Enumeration/Nmap.md",
-    "Enumeration/Osint.md"
+    "Enumeration/Gobuster.md"
   ]
 }

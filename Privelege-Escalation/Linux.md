@@ -1,8 +1,10 @@
 					Sudo 
-Can you su without a password?		       su root
-are you already a sudo user?			   sudo su -
-what can we run with sudo?			  sudo -l
+- Can you su without a password?		       `su root`
+- are you already a sudo user?			   `sudo su -`
+- what can we run with sudo?			  `sudo -l`
+- sudo versions < 1.8.28 are vulnerable to `CVE-2019-14287`
 
+<!-- -->
 				Spawning root shells
 Create a copy of /bin/bash or /bin/sh can you call it rootbash - make sure its owned by the root user. Then use /bin/bash -p to run it
 
