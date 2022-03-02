@@ -24,6 +24,8 @@ ls -l /etc/passwd					is /etc/passwd writeable?
 
 <!-- -->
 
+				Suid
+Find all Suids `find / -perm -u=s -type f 2>/dev/null`
 
 				Docker
 -- get image name using 'docker ps'
