@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Privelege-Escalation/Linux.md",
+            "file": "Enumeration/Gobuster.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Privelege-Escalation/Linux.md",
+                "file": "Enumeration/Gobuster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "1b2c3fc85a14153f",
   "lastOpenFiles": [
+    "Enumeration/Gobuster.md",
     "Privelege-Escalation/Linux.md",
     "Privelege-Escalation/Windows.md",
     "Web-Exploitation/File-Upload.md",
@@ -96,7 +97,6 @@
     "Malware/Online-Sandboxing.md",
     "Bookmarks.md",
     "Password-Cracking/Hydra.md",
-    "Password-Cracking/Cracking.md",
-    "Enumeration/Gobuster.md"
+    "Password-Cracking/Cracking.md"
   ]
 }
