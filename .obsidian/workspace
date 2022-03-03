@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Enumeration/Gobuster.md",
-            "mode": "source"
+            "file": "Bookmarks.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enumeration/Gobuster.md",
+                "file": "Bookmarks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "1b2c3fc85a14153f",
   "lastOpenFiles": [
+    "Bookmarks.md",
+    "Password-Cracking/Cracking.md",
+    "Password-Cracking/Hydra.md",
     "Enumeration/Gobuster.md",
     "Privelege-Escalation/Linux.md",
     "Privelege-Escalation/Windows.md",
     "Web-Exploitation/File-Upload.md",
     "Web-Exploitation/Directory Traversal.md",
     "Web-Exploitation/Authentication.md",
-    "Malware/Online-Sandboxing.md",
-    "Bookmarks.md",
-    "Password-Cracking/Hydra.md",
-    "Password-Cracking/Cracking.md"
+    "Malware/Online-Sandboxing.md"
   ]
 }
