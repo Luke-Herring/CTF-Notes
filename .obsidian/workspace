@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web-Exploitation/SSRF.md",
-            "mode": "preview"
+            "file": "Misc/Docker.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web-Exploitation/SSRF.md",
+                "file": "Misc/Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "1b2c3fc85a14153f",
   "lastOpenFiles": [
+    "Misc/Docker.md",
+    "Post-Exploitation/Linux-Backdoor.md",
+    "Privelege-Escalation/Windows.md",
     "Web-Exploitation/SSRF.md",
     "Web-Exploitation/SQL-injection.md",
     "Enumeration/Osint.md",
     "Enumeration/Nmap.md",
     "Enumeration/Gobuster.md",
     "Password-Cracking/Hydra.md",
-    "Password-Cracking/Cracking.md",
-    "Web-Exploitation/XXE.md",
-    "Web-Exploitation/XSS.md",
-    "Web-Exploitation/Phishing.md"
+    "Password-Cracking/Cracking.md"
   ]
 }
