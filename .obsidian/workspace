@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Enumeration/Osint.md",
+            "file": "Web-Exploitation/SSRF.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enumeration/Osint.md",
+                "file": "Web-Exploitation/SSRF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "1b2c3fc85a14153f",
   "lastOpenFiles": [
+    "Web-Exploitation/SSRF.md",
+    "Web-Exploitation/SQL-injection.md",
     "Enumeration/Osint.md",
     "Enumeration/Nmap.md",
     "Enumeration/Gobuster.md",
@@ -95,8 +97,6 @@
     "Password-Cracking/Cracking.md",
     "Web-Exploitation/XXE.md",
     "Web-Exploitation/XSS.md",
-    "Web-Exploitation/SSRF.md",
-    "Web-Exploitation/SQL-injection.md",
     "Web-Exploitation/Phishing.md"
   ]
 }
