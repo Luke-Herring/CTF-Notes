@@ -89,8 +89,8 @@
   "active": "1b2c3fc85a14153f",
   "lastOpenFiles": [
     "Enumeration/Osint.md",
-    "Enumeration/Gobuster.md",
     "Enumeration/Nmap.md",
+    "Enumeration/Gobuster.md",
     "Password-Cracking/Hydra.md",
     "Password-Cracking/Cracking.md",
     "Web-Exploitation/XXE.md",
