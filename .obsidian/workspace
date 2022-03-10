@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Misc/Docker.md",
+            "file": "Web-Exploitation/Directory Traversal.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Docker.md",
+                "file": "Web-Exploitation/Directory Traversal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "1b2c3fc85a14153f",
   "lastOpenFiles": [
+    "Web-Exploitation/Directory Traversal.md",
+    "Web-Exploitation/Command Injection.md",
     "Misc/Docker.md",
     "Bookmarks.md",
     "Post-Exploitation/Linux-Backdoor.md",
@@ -95,8 +97,6 @@
     "Web-Exploitation/SSRF.md",
     "Web-Exploitation/SQL-injection.md",
     "Enumeration/Osint.md",
-    "Enumeration/Nmap.md",
-    "Enumeration/Gobuster.md",
-    "Password-Cracking/Hydra.md"
+    "Enumeration/Nmap.md"
   ]
 }
