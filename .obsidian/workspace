@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web-Exploitation/Directory Traversal.md",
+            "file": "Password-Cracking/Cracking.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web-Exploitation/Directory Traversal.md",
+                "file": "Password-Cracking/Cracking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,10 +88,10 @@
   },
   "active": "1b2c3fc85a14153f",
   "lastOpenFiles": [
+    "Password-Cracking/Cracking.md",
+    "Password-Cracking/Hydra.md",
     "Web-Exploitation/Directory Traversal.md",
     "Enumeration/Gobuster.md",
-    "Password-Cracking/Hydra.md",
-    "Password-Cracking/Cracking.md",
     "Web-Exploitation/Command Injection.md",
     "Misc/Docker.md",
     "Bookmarks.md",
