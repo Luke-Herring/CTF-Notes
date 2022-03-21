@@ -6,24 +6,14 @@ User Enumeration
 - `qwinsta` Other users logged in
 
 <!-- -->
-Systeminfo
+Misc
 - `systeminfo | findstr /B /C:"OS Name" /C:"OS Version"` get OS version
-
-<!-- -->
- Patch level
  - `wmic qfe get Caption,Description,HotFixID,InstalledOn` list updates on system
-
-<!-- -->
- Scheduled Tasks
  - `schtasks /query /fo LIST /v` query scheduled tasks
-
-<!-- -->
-Drivers
 - `driverquery` list drivers installed
+- `sc query windefend` is windows Defender on?
 
 <!-- -->
-Antivirus
-- `sc query windefend` is windows Defender on?
 
 ### Hot Potato
 cmd:
