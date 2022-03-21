@@ -14,6 +14,8 @@ Misc
 - `driverquery` list drivers installed
 - `sc query windefend` is windows Defender on?
 - `cmdkey /list` list
+- `reg query HKLM /f password /t REG_SZ /s` registry key containing passwords
+- `reg query HKCU /f password /t REG_SZ /s` registry key containing passwords
 <!-- -->
 
 ### DLL Hijacking
