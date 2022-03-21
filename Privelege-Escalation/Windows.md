@@ -2,10 +2,28 @@
 User Enumeration
 - `whoami /priv` Current user privileges
 - `net users` List users
-- `net user $username` Detatils
+- `net user $username` Detail of a specific user
+- `qwinsta` Other users logged in
 
+<!-- -->
+Systeminfo
+- `systeminfo | findstr /B /C:"OS Name" /C:"OS Version"` get OS version
 
+<!-- -->
+ Patch level
+ - `wmic qfe get Caption,Description,HotFixID,InstalledOn` list updates on system
 
+<!-- -->
+ Scheduled Tasks
+ - `schtasks /query /fo LIST /v` query scheduled tasks
+
+<!-- -->
+Drivers
+- `driverquery` list drivers installed
+
+<!-- -->
+Antivirus
+- `sc query windefend` is windows Defender on?
 
 ### Hot Potato
 cmd:
