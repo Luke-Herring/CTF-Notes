@@ -89,6 +89,7 @@
   "active": "1b2c3fc85a14153f",
   "lastOpenFiles": [
     "Privelege-Escalation/Windows.md",
+    "Bookmarks.md",
     "Privelege-Escalation/Linux.md",
     "Password-Cracking/Cracking.md",
     "Password-Cracking/Hydra.md",
@@ -96,7 +97,6 @@
     "Enumeration/Gobuster.md",
     "Web-Exploitation/Command Injection.md",
     "Misc/Docker.md",
-    "Bookmarks.md",
     "Post-Exploitation/Linux-Backdoor.md"
   ]
 }
