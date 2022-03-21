@@ -9,7 +9,7 @@ User Enumeration
 Misc
 - `systeminfo | findstr /B /C:"OS Name" /C:"OS Version"` get OS version
  - `wmic qfe get Caption,Description,HotFixID,InstalledOn` list updates on system
- - `wmic service list brief | findstr  "Running"` installed system thats running
+ - `wmic product get name,version,vendor` installed apps
  - `schtasks /query /fo LIST /v` query scheduled tasks
 - `driverquery` list drivers installed
 - `sc query windefend` is windows Defender on?
