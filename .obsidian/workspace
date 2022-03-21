@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Password-Cracking/Cracking.md",
-            "mode": "preview"
+            "file": "Privelege-Escalation/Windows.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Password-Cracking/Cracking.md",
+                "file": "Privelege-Escalation/Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "1b2c3fc85a14153f",
   "lastOpenFiles": [
+    "Privelege-Escalation/Windows.md",
+    "Privelege-Escalation/Linux.md",
     "Password-Cracking/Cracking.md",
     "Password-Cracking/Hydra.md",
     "Web-Exploitation/Directory Traversal.md",
@@ -95,8 +97,6 @@
     "Web-Exploitation/Command Injection.md",
     "Misc/Docker.md",
     "Bookmarks.md",
-    "Post-Exploitation/Linux-Backdoor.md",
-    "Privelege-Escalation/Windows.md",
-    "Web-Exploitation/SSRF.md"
+    "Post-Exploitation/Linux-Backdoor.md"
   ]
 }
