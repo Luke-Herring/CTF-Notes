@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Misc/Active Directory.md",
+            "file": "Enumeration/Samba.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Active Directory.md",
+                "file": "Enumeration/Samba.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "1b2c3fc85a14153f",
   "lastOpenFiles": [
+    "Enumeration/Samba.md",
     "Misc/Active Directory.md",
     "Privelege-Escalation/Windows.md",
     "Bookmarks.md",
@@ -96,7 +97,6 @@
     "Password-Cracking/Hydra.md",
     "Web-Exploitation/Directory Traversal.md",
     "Enumeration/Gobuster.md",
-    "Web-Exploitation/Command Injection.md",
-    "Misc/Docker.md"
+    "Web-Exploitation/Command Injection.md"
   ]
 }
