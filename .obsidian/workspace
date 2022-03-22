@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Privelege-Escalation/Windows.md",
+            "file": "Misc/Active Directory.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Privelege-Escalation/Windows.md",
+                "file": "Misc/Active Directory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "1b2c3fc85a14153f",
   "lastOpenFiles": [
+    "Misc/Active Directory.md",
     "Privelege-Escalation/Windows.md",
     "Bookmarks.md",
     "Privelege-Escalation/Linux.md",
@@ -96,7 +97,6 @@
     "Web-Exploitation/Directory Traversal.md",
     "Enumeration/Gobuster.md",
     "Web-Exploitation/Command Injection.md",
-    "Misc/Docker.md",
-    "Post-Exploitation/Linux-Backdoor.md"
+    "Misc/Docker.md"
   ]
 }
