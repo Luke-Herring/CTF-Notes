@@ -4,4 +4,5 @@
 ### Get Domain name
 `smbmap -H $IP`
 
-### Get users list
+
+https://wadcoms.github.io/#+No%20Creds

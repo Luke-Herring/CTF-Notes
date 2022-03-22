@@ -6,3 +6,4 @@
 
 ### Connecting to share
 `smbclient //$IP/SHARE`
+
