@@ -4,5 +4,7 @@
 ### Get Domain name
 `smbmap -H $IP`
 
+### User Enumeration
+`./kerbrute userenum --dc $IP -d $Domain.local userlist.txt -t 100`
 
 https://wadcoms.github.io/#+No%20Creds
