@@ -89,6 +89,7 @@
   "active": "1b2c3fc85a14153f",
   "lastOpenFiles": [
     "Web-Exploitation/SSTI.md",
+    "Bookmarks.md",
     "Web-Exploitation/SSRF.md",
     "Web-Exploitation/XSS.md",
     "Web-Exploitation/XXE.md",
@@ -96,7 +97,6 @@
     "Web-Exploitation/IDOR.md",
     "Web-Exploitation/SQL-injection.md",
     "Password-Cracking/Cracking.md",
-    "Web-Exploitation/Phishing.md",
-    "Bookmarks.md"
+    "Web-Exploitation/Phishing.md"
   ]
 }
