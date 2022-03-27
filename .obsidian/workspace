@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Password-Cracking/Cracking.md",
+            "file": "Web-Exploitation/SSTI.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Password-Cracking/Cracking.md",
+                "file": "Web-Exploitation/SSTI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "1b2c3fc85a14153f",
   "lastOpenFiles": [
+    "Web-Exploitation/SSTI.md",
+    "Web-Exploitation/SSRF.md",
+    "Web-Exploitation/XSS.md",
+    "Web-Exploitation/XXE.md",
+    "Web-Exploitation/File-Upload.md",
+    "Web-Exploitation/IDOR.md",
+    "Web-Exploitation/SQL-injection.md",
     "Password-Cracking/Cracking.md",
     "Web-Exploitation/Phishing.md",
-    "Web-Exploitation/SQL-injection.md",
-    "Web-Exploitation/IDOR.md",
-    "Web-Exploitation/File-Upload.md",
-    "Bookmarks.md",
-    "Misc/Active Directory.md",
-    "Misc/Docker.md",
-    "Enumeration/Samba.md",
-    "Privelege-Escalation/Windows.md"
+    "Bookmarks.md"
   ]
 }
