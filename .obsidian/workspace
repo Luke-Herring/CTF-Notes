@@ -90,13 +90,13 @@
   "lastOpenFiles": [
     "Privelege-Escalation/Windows.md",
     "Enumeration/Metasploit.md",
+    "Password-Cracking/Cracking.md",
     "Enumeration/Osint.md",
     "Enumeration/Samba.md",
     "Cryptography/RSA.md",
     "Privelege-Escalation/Linux.md",
     "Web-Exploitation/XSS.md",
     "Web-Exploitation/XXE.md",
-    "Web-Exploitation/SSTI.md",
-    "Bookmarks.md"
+    "Web-Exploitation/SSTI.md"
   ]
 }
