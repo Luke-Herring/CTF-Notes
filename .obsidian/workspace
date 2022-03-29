@@ -7,8 +7,11 @@
         "id": "1b2c3fc85a14153f",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Enumeration/Metasploit.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Enumeration/Metasploit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +88,15 @@
   },
   "active": "1b2c3fc85a14153f",
   "lastOpenFiles": [
+    "Enumeration/Metasploit.md",
+    "Enumeration/Osint.md",
+    "Enumeration/Samba.md",
     "Cryptography/RSA.md",
     "Privelege-Escalation/Linux.md",
     "Privelege-Escalation/Windows.md",
     "Web-Exploitation/XSS.md",
     "Web-Exploitation/XXE.md",
     "Web-Exploitation/SSTI.md",
-    "Bookmarks.md",
-    "Web-Exploitation/SSRF.md",
-    "Web-Exploitation/File-Upload.md",
-    "Web-Exploitation/IDOR.md"
+    "Bookmarks.md"
   ]
 }
