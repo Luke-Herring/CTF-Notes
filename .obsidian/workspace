@@ -7,11 +7,8 @@
         "id": "1b2c3fc85a14153f",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Privelege-Escalation/Linux.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Privelege-Escalation/Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +84,7 @@
   },
   "active": "1b2c3fc85a14153f",
   "lastOpenFiles": [
+    "Cryptography/RSA.md",
     "Privelege-Escalation/Linux.md",
     "Privelege-Escalation/Windows.md",
     "Web-Exploitation/XSS.md",
@@ -96,7 +93,6 @@
     "Bookmarks.md",
     "Web-Exploitation/SSRF.md",
     "Web-Exploitation/File-Upload.md",
-    "Web-Exploitation/IDOR.md",
-    "Web-Exploitation/SQL-injection.md"
+    "Web-Exploitation/IDOR.md"
   ]
 }
