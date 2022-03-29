@@ -11,3 +11,4 @@
 - `hashdump` will retrieve all hashed frm sam file
 - `load kiwi` will in let us use mimikatz
 - `screenshot` Grab a screenshot of the interactive desktop
+- `shell`  get a shell on remote machine

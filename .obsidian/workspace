@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Enumeration/Metasploit.md",
-            "mode": "source"
+            "file": "Privelege-Escalation/Windows.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enumeration/Metasploit.md",
+                "file": "Privelege-Escalation/Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,12 +88,12 @@
   },
   "active": "1b2c3fc85a14153f",
   "lastOpenFiles": [
+    "Privelege-Escalation/Windows.md",
     "Enumeration/Metasploit.md",
     "Enumeration/Osint.md",
     "Enumeration/Samba.md",
     "Cryptography/RSA.md",
     "Privelege-Escalation/Linux.md",
-    "Privelege-Escalation/Windows.md",
     "Web-Exploitation/XSS.md",
     "Web-Exploitation/XXE.md",
     "Web-Exploitation/SSTI.md",

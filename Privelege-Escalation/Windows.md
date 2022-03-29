@@ -18,9 +18,8 @@ Misc
 - `reg query HKCU /f password /t REG_SZ /s` registry key containing passwords
 <!-- -->
 
-### DLL Hijacking
-DLL hijacking is an technique that can allow you to inject code into an application by replacing a legitimate DLL file with a malicious DLL file that will be called by the executable and run.
-
+		Kernal Exploits
+- `driverquery`
 ### Winpeas.exe
 Local:
 - `python -m SimpleHTTPServer 80`
