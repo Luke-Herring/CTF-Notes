@@ -22,7 +22,7 @@ Misc
 - `driverquery`
 ### Winpeas.exe
 Local:
-- `python -m SimpleHTTPServer 80`
+- `python3 -m http.server 80`
 
 <!-- -->
 Remote: 
