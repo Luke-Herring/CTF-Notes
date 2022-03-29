@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web-Exploitation/XSS.md",
+            "file": "Privelege-Escalation/Linux.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web-Exploitation/XSS.md",
+                "file": "Privelege-Escalation/Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "1b2c3fc85a14153f",
   "lastOpenFiles": [
+    "Privelege-Escalation/Linux.md",
+    "Privelege-Escalation/Windows.md",
     "Web-Exploitation/XSS.md",
     "Web-Exploitation/XXE.md",
     "Web-Exploitation/SSTI.md",
@@ -95,8 +97,6 @@
     "Web-Exploitation/SSRF.md",
     "Web-Exploitation/File-Upload.md",
     "Web-Exploitation/IDOR.md",
-    "Web-Exploitation/SQL-injection.md",
-    "Password-Cracking/Cracking.md",
-    "Web-Exploitation/Phishing.md"
+    "Web-Exploitation/SQL-injection.md"
   ]
 }
