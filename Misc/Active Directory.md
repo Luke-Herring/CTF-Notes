@@ -1,5 +1,5 @@
 ### Nmap Scan 
-- `nmap -p 53,135,139,88,389,445,464,593,636,3268,3269,5985,9389,49676,49696,49674,49675,49667,49666 -sV -sC -T16 -Pn -oA 10.10.181.245 10.10.181.245`
+- `nmap -p 53,135,139,88,389,445,464,593,636,3268,3269,5985,9389,49676,49696,49674,49675,49667,49666 -sV -sC -T16 -Pn -oA $IP $IP`
 
 ### Get Domain name
 - `smbmap -H $IP`
@@ -9,6 +9,12 @@
 
 <!-- -->
 https://wadcoms.github.io/#+No%20Creds
+
+### rpcclient
+- `rpcclient -U "" $DOMAIN` Connect to rpcclient
+- `enumdomusers` Enumerate Domain Users
+- `enumdomgroups` Enumerate Domain Groups
+- 
 
 ### BloodHound
 starting BloodHound
