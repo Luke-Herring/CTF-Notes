@@ -4,11 +4,9 @@
 ### Get Domain name
 - `smbmap -H $IP`
 
-### Kerberos User Enumeration
-- `nmap -Pn -p 88 –script krb5-enum-users –script-args realm=’ecorp’,userdb=usernames.lst 192.168.1.22`
+### Kerberoasting
+Kerberoasting is an extremely common attack in active directory environments which targets Active Directory accounts with the SPN value set.
 
-<!-- -->
-https://wadcoms.github.io/#+No%20Creds
 
 ### rpcclient
 - `rpcclient -U "" -N $DOMAIN` Connect to rpcclient
