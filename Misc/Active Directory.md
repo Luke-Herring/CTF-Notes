@@ -21,3 +21,6 @@ starting BloodHound
 - `Password: BloodHound`
 
 <!-- -->
+
+### Misc
+- `smbmap -H $IP` list Samba shares
