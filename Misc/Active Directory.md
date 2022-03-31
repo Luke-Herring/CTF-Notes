@@ -11,10 +11,15 @@
 https://wadcoms.github.io/#+No%20Creds
 
 ### rpcclient
-- `rpcclient -U "" $DOMAIN` Connect to rpcclient
+- `rpcclient -U "" -N $DOMAIN` Connect to rpcclient
 - `enumdomusers` Enumerate Domain Users
+-  `queryuser $RID` Enumerate User
 - `enumdomgroups` Enumerate Domain Groups
-- 
+- `getdomwinfo` Domain Password Information 
+- `createdomuser $NAME` ,`setuserinfo2 $NAME 24 $PASSWORD` Creating Domain User
+
+<!-- -->
+[Enumerating AD with rpcclient](https://www.hackingarticles.in/active-directory-enumeration-rpcclient/)
 
 ### BloodHound
 starting BloodHound

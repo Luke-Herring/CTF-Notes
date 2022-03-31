@@ -89,6 +89,7 @@
   "active": "1b2c3fc85a14153f",
   "lastOpenFiles": [
     "Misc/Active Directory.md",
+    "Bookmarks.md",
     "Misc/Docker.md",
     "Privelege-Escalation/Linux.md",
     "Privelege-Escalation/Windows.md",
@@ -96,7 +97,6 @@
     "Password-Cracking/Cracking.md",
     "Enumeration/Osint.md",
     "Enumeration/Samba.md",
-    "Cryptography/RSA.md",
-    "Web-Exploitation/XSS.md"
+    "Cryptography/RSA.md"
   ]
 }
