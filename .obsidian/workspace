@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Enumeration/Gobuster.md",
-            "mode": "preview"
+            "file": "Enumeration/FTP.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enumeration/Gobuster.md",
+                "file": "Enumeration/FTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "1b2c3fc85a14153f",
   "lastOpenFiles": [
+    "Enumeration/FTP.md",
+    "Enumeration/Osint.md",
     "Enumeration/Gobuster.md",
-    "Privelege-Escalation/Windows.md",
+    "Enumeration/Samba.md",
     "Enumeration/Common-ports.md",
+    "Enumeration/Nmap.md",
+    "imgs/Authentication1.png",
+    "Privelege-Escalation/Windows.md",
     "Misc/Active Directory.md",
-    "Bookmarks.md",
-    "Misc/Docker.md",
-    "Privelege-Escalation/Linux.md",
-    "Misc/Metasploit.md",
-    "Password-Cracking/Cracking.md",
-    "Enumeration/Osint.md"
+    "Bookmarks.md"
   ]
 }
