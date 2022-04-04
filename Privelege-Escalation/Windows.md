@@ -39,3 +39,6 @@ Remote:
  - `use post/multi/recon/local_exploit_suggester`
  - `set session 1`
  - `run`
+ 
+ <!-- -->
+ You might need to migrate meterprete shell
