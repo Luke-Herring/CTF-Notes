@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Privelege-Escalation/Windows.md",
+            "file": "Enumeration/Gobuster.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Privelege-Escalation/Windows.md",
+                "file": "Enumeration/Gobuster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,8 @@
   },
   "active": "1b2c3fc85a14153f",
   "lastOpenFiles": [
-    "Privelege-Escalation/Windows.md",
     "Enumeration/Gobuster.md",
+    "Privelege-Escalation/Windows.md",
     "Enumeration/Common-ports.md",
     "Misc/Active Directory.md",
     "Bookmarks.md",
