@@ -31,3 +31,11 @@ Remote:
  <!-- -->
  
  [Windows Privesc](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Privilege%20Escalation.md)
+ 
+ ### Metasploit
+ only works if you have meterpreter shell
+ 
+ - `background` background current shell
+ - `use post/multi/recon/local_exploit_suggester`
+ - `set session 1`
+ - `run`

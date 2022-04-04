@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Enumeration/Gobuster.md",
+            "file": "Privelege-Escalation/Windows.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enumeration/Gobuster.md",
+                "file": "Privelege-Escalation/Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,13 +88,13 @@
   },
   "active": "1b2c3fc85a14153f",
   "lastOpenFiles": [
+    "Privelege-Escalation/Windows.md",
     "Enumeration/Gobuster.md",
     "Enumeration/Common-ports.md",
     "Misc/Active Directory.md",
     "Bookmarks.md",
     "Misc/Docker.md",
     "Privelege-Escalation/Linux.md",
-    "Privelege-Escalation/Windows.md",
     "Misc/Metasploit.md",
     "Password-Cracking/Cracking.md",
     "Enumeration/Osint.md"
