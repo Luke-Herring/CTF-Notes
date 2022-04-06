@@ -42,3 +42,5 @@ Remote:
  
  <!-- -->
  You might need to migrate meterprete shell
+ - `tasklist` get pids
+ - `migrate $PID` in meterpreter
