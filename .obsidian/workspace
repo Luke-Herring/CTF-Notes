@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Enumeration/FTP.md",
-            "mode": "source"
+            "file": "Privelege-Escalation/Windows.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enumeration/FTP.md",
+                "file": "Privelege-Escalation/Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "1b2c3fc85a14153f",
   "lastOpenFiles": [
+    "Privelege-Escalation/Windows.md",
+    "Post-Exploitation/Linux-Backdoor.md",
+    "Enumeration/Common-ports.md",
     "Enumeration/FTP.md",
     "Enumeration/Osint.md",
     "Enumeration/Gobuster.md",
     "Enumeration/Samba.md",
-    "Enumeration/Common-ports.md",
     "Enumeration/Nmap.md",
     "imgs/Authentication1.png",
-    "Privelege-Escalation/Windows.md",
-    "Misc/Active Directory.md",
-    "Bookmarks.md"
+    "Misc/Active Directory.md"
   ]
 }
