@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Privelege-Escalation/Windows.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -89,6 +89,7 @@
   "active": "1b2c3fc85a14153f",
   "lastOpenFiles": [
     "Privelege-Escalation/Windows.md",
+    "Bookmarks.md",
     "Post-Exploitation/Linux-Backdoor.md",
     "Enumeration/Common-ports.md",
     "Enumeration/FTP.md",
@@ -96,7 +97,6 @@
     "Enumeration/Gobuster.md",
     "Enumeration/Samba.md",
     "Enumeration/Nmap.md",
-    "imgs/Authentication1.png",
-    "Misc/Active Directory.md"
+    "imgs/Authentication1.png"
   ]
 }
