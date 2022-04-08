@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Privelege-Escalation/Windows.md",
-            "mode": "preview"
+            "file": "Misc/anonymity.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Privelege-Escalation/Windows.md",
+                "file": "Misc/anonymity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "1b2c3fc85a14153f",
   "lastOpenFiles": [
+    "Misc/anonymity.md",
     "Privelege-Escalation/Windows.md",
     "Bookmarks.md",
     "Post-Exploitation/Linux-Backdoor.md",
@@ -96,7 +97,6 @@
     "Enumeration/Osint.md",
     "Enumeration/Gobuster.md",
     "Enumeration/Samba.md",
-    "Enumeration/Nmap.md",
-    "imgs/Authentication1.png"
+    "Enumeration/Nmap.md"
   ]
 }
