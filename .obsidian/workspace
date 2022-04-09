@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Misc/anonymity.md",
-            "mode": "preview"
+            "file": "Misc/Active Directory.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/anonymity.md",
+                "file": "Misc/Active Directory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "1b2c3fc85a14153f",
   "lastOpenFiles": [
+    "Misc/Active Directory.md",
     "Misc/anonymity.md",
     "Privelege-Escalation/Windows.md",
     "Bookmarks.md",
@@ -96,7 +97,6 @@
     "Enumeration/FTP.md",
     "Enumeration/Osint.md",
     "Enumeration/Gobuster.md",
-    "Enumeration/Samba.md",
-    "Enumeration/Nmap.md"
+    "Enumeration/Samba.md"
   ]
 }

