@@ -46,6 +46,8 @@ starting BloodHound
 <!-- -->
 
 ### Misc
-- `smbmap -H $IP` list Samba shares
 - `ruby evil-winrm.rb -i $IP -u $USER -p $PASS`
 - `pwsh` to run powershell on kali
+
+
+[WADComs](https://wadcoms.github.io/)
