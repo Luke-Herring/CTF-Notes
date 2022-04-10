@@ -1,9 +1,4 @@
-### Enumerate Users
-`python /usr/share/doc/python-impacket-doc/examples/samrdump.py $IP`
-
-### Enumerate Shares
-`smbclient -L $IP`
-
-### Connecting to share
-`smbclient //$IP/SHARE`
-
+### SAMBA
+- `smbclient -L \\\\$IP -N` Enumerate
+- `smbclient \\\\$IP/SHARE` login to share
+- `smbclinet -U "" \\\\$IP/SHARE` anonymous login

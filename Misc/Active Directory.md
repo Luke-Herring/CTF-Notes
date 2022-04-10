@@ -13,6 +13,7 @@
 ### SAMBA
 - `smbclient -L \\\\$IP -N` Enumerate
 - `smbclient \\\\$IP/SHARE` login to share
+- `smbclinet -U "" \\\\$IP/SHARE` anonymous login
 
 ### Get Hashes
 - `GetNPUsers.py '$DOMAIN' -usersfile users.txt -format hashcat -outputfile hashes.aspreroast -dc-ip $IP`

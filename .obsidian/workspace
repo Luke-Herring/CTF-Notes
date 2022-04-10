@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Misc/Active Directory.md",
+            "file": "Enumeration/Samba.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Active Directory.md",
+                "file": "Enumeration/Samba.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "1b2c3fc85a14153f",
   "lastOpenFiles": [
-    "Misc/Active Directory.md",
     "Enumeration/Samba.md",
+    "Misc/Active Directory.md",
+    "Misc/anonymity.md",
     "Web-Exploitation/Command Injection.md",
     "Web-Exploitation/Authentication.md",
     "Web-Exploitation/Directory Traversal.md",
     "Web-Exploitation/File-Upload.md",
     "Web-Exploitation/IDOR.md",
     "Web-Exploitation/Phishing.md",
-    "Web-Exploitation/SSRF.md",
-    "Web-Exploitation/SSTI.md"
+    "Web-Exploitation/SSRF.md"
   ]
 }
