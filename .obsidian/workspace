@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Misc/Active Directory.md",
+            "file": "Web-Exploitation/SSTI.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Active Directory.md",
+                "file": "Web-Exploitation/SSTI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "1b2c3fc85a14153f",
   "lastOpenFiles": [
+    "Web-Exploitation/SSTI.md",
+    "Enumeration/Gobuster.md",
     "Misc/Active Directory.md",
     "Misc/anonymity.md",
     "Privelege-Escalation/Windows.md",
@@ -95,8 +97,6 @@
     "Post-Exploitation/Linux-Backdoor.md",
     "Enumeration/Common-ports.md",
     "Enumeration/FTP.md",
-    "Enumeration/Osint.md",
-    "Enumeration/Gobuster.md",
-    "Enumeration/Samba.md"
+    "Enumeration/Osint.md"
   ]
 }
