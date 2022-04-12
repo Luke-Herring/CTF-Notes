@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Enumeration/Gobuster.md",
+            "file": "Web-Exploitation/Directory Traversal.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enumeration/Gobuster.md",
+                "file": "Web-Exploitation/Directory Traversal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "1b2c3fc85a14153f",
   "lastOpenFiles": [
+    "Web-Exploitation/Directory Traversal.md",
+    "Bookmarks.md",
+    "Misc/Metasploit.md",
     "Enumeration/Gobuster.md",
     "Enumeration/Misc.md",
     "Enumeration/Samba.md",
     "Enumeration/Nmap.md",
     "Enumeration/Osint.md",
     "Enumeration/Common-ports.md",
-    "Misc/Active Directory.md",
-    "Misc/anonymity.md",
-    "Web-Exploitation/Command Injection.md",
-    "Web-Exploitation/Authentication.md"
+    "Misc/Active Directory.md"
   ]
 }
