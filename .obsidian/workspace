@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web-Exploitation/Directory Traversal.md",
-            "mode": "source"
+            "file": "Web-Exploitation/SQL-injection.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web-Exploitation/Directory Traversal.md",
+                "file": "Web-Exploitation/SQL-injection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "1b2c3fc85a14153f",
   "lastOpenFiles": [
+    "Web-Exploitation/SQL-injection.md",
     "Web-Exploitation/Directory Traversal.md",
     "Bookmarks.md",
     "Misc/Metasploit.md",
@@ -96,7 +97,6 @@
     "Enumeration/Samba.md",
     "Enumeration/Nmap.md",
     "Enumeration/Osint.md",
-    "Enumeration/Common-ports.md",
-    "Misc/Active Directory.md"
+    "Enumeration/Common-ports.md"
   ]
 }
