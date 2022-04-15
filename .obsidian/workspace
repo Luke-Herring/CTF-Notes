@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web-Exploitation/SQL-injection.md",
+            "file": "Privelege-Escalation/Linux.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web-Exploitation/SQL-injection.md",
+                "file": "Privelege-Escalation/Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "1b2c3fc85a14153f",
   "lastOpenFiles": [
+    "Privelege-Escalation/Linux.md",
+    "Web-Exploitation/Phishing.md",
     "Web-Exploitation/SQL-injection.md",
     "Web-Exploitation/Directory Traversal.md",
     "Bookmarks.md",
@@ -95,8 +97,6 @@
     "Enumeration/Gobuster.md",
     "Enumeration/Misc.md",
     "Enumeration/Samba.md",
-    "Enumeration/Nmap.md",
-    "Enumeration/Osint.md",
-    "Enumeration/Common-ports.md"
+    "Enumeration/Nmap.md"
   ]
 }
