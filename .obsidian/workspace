@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Privelege-Escalation/Linux.md",
+            "file": "Web-Exploitation/SSTI.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Privelege-Escalation/Linux.md",
+                "file": "Web-Exploitation/SSTI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "1b2c3fc85a14153f",
   "lastOpenFiles": [
+    "Web-Exploitation/SSTI.md",
     "Privelege-Escalation/Linux.md",
     "Web-Exploitation/Phishing.md",
     "Web-Exploitation/SQL-injection.md",
@@ -96,7 +97,6 @@
     "Misc/Metasploit.md",
     "Enumeration/Gobuster.md",
     "Enumeration/Misc.md",
-    "Enumeration/Samba.md",
-    "Enumeration/Nmap.md"
+    "Enumeration/Samba.md"
   ]
 }
