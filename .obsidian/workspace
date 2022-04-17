@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web-Exploitation/SSTI.md",
+            "file": "Bookmarks.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web-Exploitation/SSTI.md",
+                "file": "Bookmarks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,12 +88,12 @@
   },
   "active": "1b2c3fc85a14153f",
   "lastOpenFiles": [
+    "Bookmarks.md",
     "Web-Exploitation/SSTI.md",
     "Privelege-Escalation/Linux.md",
     "Web-Exploitation/Phishing.md",
     "Web-Exploitation/SQL-injection.md",
     "Web-Exploitation/Directory Traversal.md",
-    "Bookmarks.md",
     "Misc/Metasploit.md",
     "Enumeration/Gobuster.md",
     "Enumeration/Misc.md",
