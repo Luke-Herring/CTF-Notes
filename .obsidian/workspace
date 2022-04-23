@@ -89,14 +89,14 @@
   "active": "1b2c3fc85a14153f",
   "lastOpenFiles": [
     "Web-Exploitation/File-Upload.md",
+    "Web-Exploitation/Directory Traversal.md",
+    "Web-Exploitation/Command Injection.md",
+    "Web-Exploitation/Authentication.md",
+    "Web-Exploitation/IDOR.md",
     "Enumeration/Gobuster.md",
     "Misc/Metasploit.md",
     "Bookmarks.md",
     "Web-Exploitation/SSTI.md",
-    "Privelege-Escalation/Linux.md",
-    "Web-Exploitation/Phishing.md",
-    "Web-Exploitation/SQL-injection.md",
-    "Web-Exploitation/Directory Traversal.md",
-    "Enumeration/Misc.md"
+    "Privelege-Escalation/Linux.md"
   ]
 }
