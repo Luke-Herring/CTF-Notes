@@ -89,6 +89,7 @@
   "active": "1b2c3fc85a14153f",
   "lastOpenFiles": [
     "Web-Exploitation/File-Upload.md",
+    "Enumeration/Gobuster.md",
     "Misc/Metasploit.md",
     "Bookmarks.md",
     "Web-Exploitation/SSTI.md",
@@ -96,7 +97,6 @@
     "Web-Exploitation/Phishing.md",
     "Web-Exploitation/SQL-injection.md",
     "Web-Exploitation/Directory Traversal.md",
-    "Enumeration/Gobuster.md",
     "Enumeration/Misc.md"
   ]
 }
