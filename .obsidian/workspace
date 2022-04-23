@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Misc/Metasploit.md",
+            "file": "Web-Exploitation/File-Upload.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Metasploit.md",
+                "file": "Web-Exploitation/File-Upload.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "1b2c3fc85a14153f",
   "lastOpenFiles": [
+    "Web-Exploitation/File-Upload.md",
     "Misc/Metasploit.md",
     "Bookmarks.md",
     "Web-Exploitation/SSTI.md",
@@ -96,7 +97,6 @@
     "Web-Exploitation/SQL-injection.md",
     "Web-Exploitation/Directory Traversal.md",
     "Enumeration/Gobuster.md",
-    "Enumeration/Misc.md",
-    "Enumeration/Samba.md"
+    "Enumeration/Misc.md"
   ]
 }
