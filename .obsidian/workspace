@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Enumeration/Gobuster.md",
+            "file": "Password-Cracking/Cracking.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enumeration/Gobuster.md",
+                "file": "Password-Cracking/Cracking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "1b2c3fc85a14153f",
   "lastOpenFiles": [
+    "Password-Cracking/Cracking.md",
+    "Password-Cracking/Hydra.md",
     "Enumeration/Gobuster.md",
     "Enumeration/FTP.md",
     "Web-Exploitation/SSTI.md",
@@ -95,8 +97,6 @@
     "Web-Exploitation/File-Upload.md",
     "Web-Exploitation/Directory Traversal.md",
     "Web-Exploitation/Command Injection.md",
-    "Web-Exploitation/Authentication.md",
-    "Web-Exploitation/IDOR.md",
-    "Misc/Metasploit.md"
+    "Web-Exploitation/Authentication.md"
   ]
 }
