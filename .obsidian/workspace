@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Enumeration/Osint.md",
+            "file": "Misc/Metasploit.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enumeration/Osint.md",
+                "file": "Misc/Metasploit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "1b2c3fc85a14153f",
   "lastOpenFiles": [
+    "Misc/Metasploit.md",
     "Enumeration/Osint.md",
     "Enumeration/Misc.md",
     "Password-Cracking/Cracking.md",
@@ -96,7 +97,6 @@
     "Enumeration/FTP.md",
     "Web-Exploitation/SSTI.md",
     "Web-Exploitation/SSRF.md",
-    "Web-Exploitation/File-Upload.md",
-    "Web-Exploitation/Directory Traversal.md"
+    "Web-Exploitation/File-Upload.md"
   ]
 }
