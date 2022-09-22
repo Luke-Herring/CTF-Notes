@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Enumeration/Gobuster.md",
-            "mode": "source",
+            "file": "Privelege-Escalation/Windows.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enumeration/Gobuster.md",
+                "file": "Privelege-Escalation/Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "1b2c3fc85a14153f",
   "lastOpenFiles": [
-    "Enumeration/Gobuster.md",
-    "Misc/Active Directory.md",
-    "Networking/Osi-model.md",
-    "Password-Cracking/Cracking.md",
-    "Privelege-Escalation/Windows.md",
     "Privelege-Escalation/Linux.md",
+    "Web-Exploitation/Authentication.md",
+    "Web-Exploitation/Phishing.md",
+    "Web-Exploitation/IDOR.md",
+    "Web-Exploitation/XXE.md",
+    "Web-Exploitation/XSS.md",
+    "Web-Exploitation/Command Injection.md",
+    "Privelege-Escalation/Windows.md",
     "Post-Exploitation/Linux-Backdoor.md",
-    "imgs/Authentication1.png",
-    "Misc/Metasploit.md",
-    "Misc/Docker.md"
+    "Password-Cracking/Hydra.md"
   ]
 }

