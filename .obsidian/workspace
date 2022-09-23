@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Privelege-Escalation/Linux.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -89,15 +89,15 @@
   },
   "active": "91ae79e628917ace",
   "lastOpenFiles": [
+    "Privelege-Escalation/Windows.md",
+    "Password-Cracking/Cracking.md",
+    "Privelege-Escalation/Linux.md",
     "Web-Exploitation/Directory Traversal.md",
     "Web-Exploitation/SSRF.md",
     "Web-Exploitation/Phishing.md",
     "Web-Exploitation/File-Upload.md",
     "Bookmarks.md",
     "Web-Exploitation/SQL-injection.md",
-    "Web-Exploitation/Command Injection.md",
-    "Web-Exploitation/Authentication.md",
-    "Enumeration/Samba.md",
-    "Networking/Osi-model.md"
+    "Web-Exploitation/Command Injection.md"
   ]
 }
