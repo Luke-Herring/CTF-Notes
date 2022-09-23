@@ -1,3 +1,7 @@
+					Enumeration
+- Kernal Version: `uname -a`
+- Services Running: 
+
 					Sudo 
 - Can you su without a password?		       `su root`
 - are you already a sudo user?			   `sudo su -`
