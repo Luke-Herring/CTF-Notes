@@ -1,12 +1,12 @@
-### Information Gathering
-User Enumeration
+					Information Gathering
+## User Enumeration
 - `whoami /priv` Current user privileges
 - `net users` List users
 - `net user $username` Detail of a specific user
 - `qwinsta` Other users logged in
 
 <!-- -->
-Misc
+## Misc
 - `systeminfo | findstr /B /C:"OS Name" /C:"OS Version"` get OS version
  - `wmic qfe get Caption,Description,HotFixID,InstalledOn` list updates on system
  - `wmic product get name,version,vendor` installed apps
@@ -18,7 +18,7 @@ Misc
 - `reg query HKCU /f password /t REG_SZ /s` registry key containing passwords
 <!-- -->
 
-		Kernal Exploits
+				Kernal Exploits
 - `driverquery`
 ### Winpeas.exe
 Local:

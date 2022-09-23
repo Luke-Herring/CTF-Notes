@@ -36,13 +36,15 @@ Create a copy of /bin/bash or /bin/sh can you call it rootbash - make sure its o
 <!-- -->
 				Identify Capabilities
 
-`getcap -r / 2>/dev/null`
+- `getcap -r / 2>/dev/null`
+
+<!-- -->
 
 				LinEnum
--- wget https://raw.githubusercontent.com/rebootuser/LinEnum/master/LinEnum.sh
--- ./LinEnum.sh -t -r report.txt
+- `wget https://raw.githubusercontent.com/rebootuser/LinEnum/master/LinEnum.sh`
+- `./LinEnum.sh -t -r report.txt`
 
-
+<!-- -->
 
 				Misc
 -- https://gtfobins.github.io/
