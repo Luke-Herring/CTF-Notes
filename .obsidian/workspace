@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web-Exploitation/Directory Traversal.md",
+            "file": "Privelege-Escalation/Linux.md",
             "mode": "preview",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web-Exploitation/Directory Traversal.md",
+                "file": "Privelege-Escalation/Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "91ae79e628917ace",
   "lastOpenFiles": [
+    "Web-Exploitation/Directory Traversal.md",
     "Web-Exploitation/SSRF.md",
     "Web-Exploitation/Phishing.md",
     "Web-Exploitation/File-Upload.md",
@@ -97,7 +98,6 @@
     "Web-Exploitation/Command Injection.md",
     "Web-Exploitation/Authentication.md",
     "Enumeration/Samba.md",
-    "Networking/Osi-model.md",
-    "Enumeration/Gobuster.md"
+    "Networking/Osi-model.md"
   ]
 }
