@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bookmarks.md",
+            "file": "Web-Exploitation/SSRF.md",
             "mode": "preview",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bookmarks.md",
+                "file": "Web-Exploitation/SSRF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "91ae79e628917ace",
   "lastOpenFiles": [
+    "Web-Exploitation/SQL-injection.md",
+    "Web-Exploitation/Command Injection.md",
+    "Web-Exploitation/Authentication.md",
+    "Enumeration/Samba.md",
+    "Networking/Osi-model.md",
+    "Bookmarks.md",
     "Enumeration/Gobuster.md",
     "Enumeration/Nmap.md",
     "Enumeration/FTP.md",
-    "Misc/Metasploit.md",
-    "Misc/anonymity.md",
-    "Misc/Active Directory.md",
-    "Networking/Osi-model.md",
-    "Password-Cracking/Cracking.md",
-    "Post-Exploitation/Linux-Backdoor.md",
-    "Privelege-Escalation/Windows.md"
+    "Misc/Metasploit.md"
   ]
 }
