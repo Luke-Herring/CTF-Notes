@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Post-Exploitation/Linux-Backdoor.md",
+            "file": "Misc/Active Directory.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Post-Exploitation/Linux-Backdoor.md",
+                "file": "Misc/Active Directory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "91ae79e628917ace",
   "lastOpenFiles": [
+    "Networking/Osi-model.md",
+    "Password-Cracking/Cracking.md",
+    "Post-Exploitation/Linux-Backdoor.md",
     "Privelege-Escalation/Windows.md",
     "Privelege-Escalation/Linux.md",
     "Web-Exploitation/Authentication.md",
     "Web-Exploitation/Command Injection.md",
     "Web-Exploitation/Phishing.md",
     "Web-Exploitation/IDOR.md",
-    "Web-Exploitation/SSTI.md",
-    "Web-Exploitation/SSRF.md",
-    "Web-Exploitation/XSS.md",
-    "Web-Exploitation/XXE.md"
+    "Web-Exploitation/SSTI.md"
   ]
 }

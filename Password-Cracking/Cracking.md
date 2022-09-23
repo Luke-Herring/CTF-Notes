@@ -1,22 +1,21 @@
-				Linux Hashing /etc/shadow
+					Linux Hashing /etc/shadow
 -- $1$   MD5
 -- $2a$ Blowfish
 -- $2y$ Eksblowfish
 -- $5$   SHA-256
 -- $6$   SHA-512      
 
-				cewl
+					cewl
 - Make a wordlist by crawling the website
+`cewl -w list.txt -d 5 -m 5 www.Ip.com `
 
+<!-- -->
 
-
-cewl -w list.txt -d 5 -m 5 www.Ip.com 			
-
-				Haiti
+					Haiti
 Identify what type of hash
 `haite $HASH`
 
-				ssh2john
+					ssh2john
 - Convert private key to hash
 `python3 ssh2john.py privatekey > privatekey.hash`
 - Use john to crack hash
@@ -24,7 +23,7 @@ Identify what type of hash
 
 <!-- -->
 
-				Default passwords
+					Default passwords
 www.cirt.net/passwords
 www.default-password.info
 www.datarecovery.com/rd/default-passwords/
